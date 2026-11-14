@@ -1,0 +1,30 @@
+{
+ "s": {
+  "temperate": "온대",
+  "desert": "사막",
+  "arctic": "극지",
+  "volcanic": "화산",
+  "tropical": "열대",
+  "random": "무작위",
+  "4 players": "4인용",
+  "daily op": "데일리 작전",
+  "blitz": "전격전",
+  "industry": "산업",
+  "air wing": "비행단",
+  "cadet": "훈련병",
+  "private": "이병",
+  "corporal": "상병",
+  "sergeant": "병장",
+  "lieutenant": "소위",
+  "captain": "대위",
+  "major": "소령",
+  "colonel": "중령",
+  "general": "대장",
+  "marshal": "원수",
+  "mutators": "변형 규칙",
+  "skirmish": "스커미시",
+  "last stand": "최후 항전",
+  "ops": "작전",
+  "upland": "고지"
+ }
+}
