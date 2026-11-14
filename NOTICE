@@ -1,0 +1,12 @@
+Battle Drones 한국어판 (battledrones-ko)
+Copyright the original Battle Drones authors (simonw/battledrones).
+
+This product includes software developed by the Battle Drones project
+(https://github.com/simonw/battledrones), licensed under the Apache License,
+Version 2.0.
+
+Modifications (2026, sigco3111): the Korean translation dictionary
+(src/i18n/ko/*.json), the display-time overlay (src/i18n/overlay.ts),
+a one-line overlay script and a change notice in index.html, the
+docs/glossary.md, and the Pages workflow were added. The original
+English text remains in the source files.
