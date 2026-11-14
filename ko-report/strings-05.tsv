@@ -1,0 +1,322 @@
+Sound	1	src/ui/audio-panel.ts
+Sound settings	1	src/ui/audio-panel.ts
+Sparrow	1	src/game/heroes.ts
+Spectre	1	src/game/heroes.ts
+Speed	1	src/unit-info.ts
+Speed 1× — HQ under attack	1	src/game/GameScene.ts
+Spine	1	src/sim/mapgen.ts
+Splash: Mortars, Hornets	1	src/ui/hud.ts
+Split	1	src/sim/mapgen.ts
+Spotting through the fog	1	src/ui/hud.ts
+Squads are cheap, take cover in woods and capture Uplinks fastest.	1	src/unit-info.ts
+Squads can't swim: tap a Condor to board, then tap the island	1	src/game/controller.ts
+Squads: hold 1, 2 or 3 to save the selected units. Tap it to select them, double-tap to fly there.	1	src/ui/command.ts
+Stall overlays	1	src/versus/feed.ts
+Steady Hands	1	src/sim/awards.ts
+Still nothing? Ask your friend to keep the game open on their screen, or to send a new link.	1	src/versus/lobby.ts
+Still nothing? Check that the other page is in the lobby and the relay connects the two.	1	src/versus/lobby.ts
+Still nothing? Check that your friend got the link and opened it. Leave this page open meanwhile.	1	src/versus/lobby.ts
+Still nothing? Reload the page and tap Duel again.	1	src/versus/lobby.ts
+Still nothing? Turn the volume up and the silent switch off. Unplug headphones and turn Bluetooth off. Keep the phones 10–30 cm apart.	1	src/versus/lobby.ts
+Still nothing? Your friend may have gone back to the menu: tap Cancel and send a new link.	1	src/versus/lobby.ts
+Stinger	1	src/sim/balance.ts
+Stinger swarms, Hornets	1	src/ui/hud.ts
+Stingers and Turrets shred Rush's light tanks. Build a Fab Plant early and send reinforcements up the road to the bridge.	1	src/sim/ops.ts
+Stingers or Hornets	1	src/game/awareness.ts
+Stingers up close, aircraft	1	src/ui/hud.ts
+Stingers, Flak, Mortars	1	src/ui/hud.ts
+Stingers, Mastodons, Goliaths, Mortars	1	src/ui/hud.ts
+Stingers, Wasps, anything armoured	1	src/ui/hud.ts
+Strike drone. Rockets ground targets. Dies to Flak.	1	src/sim/balance.ts
+Strike first. Raid their harvesters before they're ready.	1	src/sim/openers.ts
+Study the whole map first.	1	src/main.ts
+Sun	1	src/game/daily.ts
+Sunscorch	1	src/sim/mapgen.ts
+Super-heavy tank. Crushes light armies. Can't hit air.	1	src/sim/balance.ts
+Super-heavy twin-cannon tank with by far the most HP of any tank.	1	src/unit-info.ts
+Supply crate	1	src/unit-info.ts
+Supply drop inbound: Veterans	1	src/sim/objectives.ts
+Survive Ironclad on Hard for 6:00	1	src/sim/ops.ts
+TEXTAREA	1	src/game/GameScene.ts
+THE BATTLE IS OVER: A DRAW.	1	src/arena/observe.ts
+THE BATTLE IS OVER: YOU LOST.	1	src/arena/observe.ts
+THE BATTLE IS OVER: YOU WON.	1	src/arena/observe.ts
+Talon	1	src/game/heroes.ts
+Tap again to leave	1	src/versus/hud.ts
+Tap map: Barrage	1	src/ui/powers.ts
+Tap map: …	1	src/ui/hud.ts
+Tap the map (or drag) to move the ghost, then tap it or ✓ Place to build.	1	src/game/placement-view.ts
+Tap the map to set a rally point	1	src/ui/hud.ts
+Tap to reconnect the sound	1	src/link/rig.ts
+Tap to zoom	1	src/ui/map-preview.ts
+Tech	1	src/ui/hud.ts
+Tech Lab	1	src/sim/balance.ts
+That Condor is empty: tap your squads into it first	1	src/game/controller.ts
+That battle started without this seat.	1	src/ffa/lobby.ts
+That didn't work: tap to try again	1	src/versus/hud.ts
+That isn't JSON: paste the whole .json file a battle wrote to battles/	1	src/game/replay.ts
+That isn't a battle record (tools/arena.ts and llm battledrones write them to battles/)	1	src/game/replay.ts
+The	1	src/main.ts
+The Goliath fights on	1	src/game/callouts.ts
+The Goliaths fight on	1	src/game/callouts.ts
+The HQ has fallen	1	src/game/GameScene.ts
+The battle ended with the host's page · No result	1	src/game/GameScene.ts
+The battle is a draw.	1	src/game/callouts.ts
+The battle is over	1	src/sim/powers.ts
+The battle is still on.	1	src/arena/match.ts
+The battle went out of sync.	1	src/ffa/lobby.ts
+The cheapest unit that can shoot aircraft, at half effect. Every side starts the match with one squad.	1	src/unit-info.ts
+The classic: rock ridges, one contested field. Learn the ropes here.	1	src/sim/maps.ts
+The connection to the battle was lost.	1	src/ffa/lobby.ts
+The dedicated anti-air answer: rapid flak bursts that shred drones, extra-effective against light airframes.	1	src/unit-info.ts
+The defender can call orbital strikes	1	src/game/render/powers.ts
+The enemy can always see it, and the Goliath taking shape on it: expect them to come for it.	1	src/unit-info.ts
+The enemy has no HQ.	1	src/arena/observe.ts
+The fastest thing on the map, with the widest sight of any unit.	1	src/unit-info.ts
+The ground-vehicle factory: tanks, anti-air, artillery and hover tanks roll out of its hall.	1	src/unit-info.ts
+The host	1	src/ffa/host.ts
+The host closed the battle.	1	src/ffa/lobby.ts
+The host is still on the last battle's report: waiting for their Rematch…	1	src/ffa/lobby.ts
+The host's page has gone quiet…	1	src/ffa/feed.ts
+The last base on the river. Waves come every 40 seconds from the map edges, growing every time, with a boss every fifth. You start dug in. Survive 10 waves.	1	src/sim/ops.ts
+The lobby	1	src/versus/lobby.ts
+The map stays black until you scout it	1	src/main.ts
+The match goes on in a moment	1	src/versus/hud.ts
+The only tank that can also shoot aircraft, at reduced effect.	1	src/unit-info.ts
+The phone stopped its microphone or sound	1	src/versus/hud.ts
+The refinery needs 10,000 scrap before the convoy leaves at 5:00. Red's Air Swarm hunts harvesters with Wasps from the first minute. Keep the haul coming.	1	src/sim/ops.ts
+The relay didn't accept this room code	1	src/net/relay-socket.ts
+The relay is full: try again later	1	src/net/relay-socket.ts
+The relay's time limit for one connection ran out	1	src/net/relay-socket.ts
+The runner	1	src/arena/match.ts
+The sound link	1	src/versus/lobby.ts
+The tap	1	src/main.ts
+The top bar names the next wave's theme: build its counter before it lands. Calling a wave early on a clear field pays scrap — and saves time.	1	src/sim/ops.ts
+The turn	1	src/ffa/match.ts
+The whole battlefield	1	src/ui/replay.ts
+Their Gantry has started one	1	src/game/callouts.ts
+Their ace	1	src/ui/report.ts
+These phones run different versions: reload both	1	src/versus/pairing.ts
+They fell in love. It's a draw.	1	src/game/finale.ts
+They fell in love. The battle is a draw.	1	src/game/callouts.ts
+This battle hasn't been played past its first round yet	1	src/game/replay.ts
+This battle was opened again in another tab or on another device	1	src/net/relay-socket.ts
+This browser can't play the sound link	1	src/link/rig.ts
+This browser can't run the sound link	1	src/link/rig.ts
+This page isn't allowed to use the relay	1	src/net/relay-socket.ts
+This phone can't hear its own signal: sound may be going to the earpiece or Bluetooth, or it can't play this band.	1	src/versus/lobby.ts
+This phone has the older version.	1	src/versus/lobby.ts
+This phone's audio can't carry the sound link	1	src/link/rig.ts
+This seat is played by the built-in AI.	1	src/arena/match.ts
+Thornfield	1	src/sim/mapgen.ts
+Those Condors are full	1	src/game/controller.ts
+Thu	1	src/game/daily.ts
+Thunder	1	src/game/heroes.ts
+Time	1	src/sim/ops.ts
+Too many losses	1	src/sim/ops.ts
+Torque	1	src/game/heroes.ts
+Train tanks in Vehicles. Tap a unit, then tap the map to send it.	1	src/ui/hud.ts
+Triple kill	1	src/game/callouts.ts
+Trooper Squad	1	src/sim/balance.ts
+Trooper Squads	1	src/game/advisor.ts
+Troopers	1	src/ui/hud.ts
+Troopers, Mortars or Snipers	1	src/game/awareness.ts
+Troopers, Snipers, Mortars	1	src/ui/hud.ts
+Try again with headphones and Bluetooth disconnected.	1	src/link/rig.ts
+Tue	1	src/game/daily.ts
+Turning point	1	src/game/chronicle.ts
+Turrets 2/2	1	src/ui/ops.ts
+Tusk	1	src/game/heroes.ts
+Twins	1	src/sim/mapgen.ts
+Two empty Condors lift a Goliath	1	src/game/controller.ts
+Two empty Condors lift a Goliath: tap your Goliath to hook on, then long-press where to set it down.	1	src/ui/command.ts
+Two enemy Goliaths that meet fall in love, and the battle ends in a draw	1	src/sim/rules.ts
+Tycoon	1	src/sim/awards.ts
+UE with more than 24 leading zeros	1	src/versus/codec.ts
+UNITS[kind].squad	1	src/sim/infantry.ts
+UPLINKS	1	src/arena/observe.ts
+Unarmed	1	src/unit-info.ts
+Unarmed and lightly armoured — Raptors and Flak pick them off.	1	src/unit-info.ts
+Unarmed and lightly built: easy to lose to a raid.	1	src/unit-info.ts
+Unarmed and slow; air raids hunt them first. Build a Depot near distant fields to shorten the trip.	1	src/unit-info.ts
+Unarmed: use it to find the enemy base, spot fields and watch for attacks coming through the fog.	1	src/unit-info.ts
+Unbreakable	1	src/sim/awards.ts
+Under construction…	1	src/ui/hud.ts
+Unique	1	src/sim/economy.ts
+Unit chirps and radio codes, no speech (tap to turn off)	1	src/ui/audio-panel.ts
+Units and buildings build in half the time	1	src/sim/rules.ts
+Unload the Condors first	1	src/game/controller.ts
+Unlocks Mortar, Mastodon, Lancer, Hornet and Sniper.	1	src/sim/balance.ts
+Untouchable	1	src/sim/awards.ts
+Updating…	1	src/ui/update.ts
+Uplink captured	1	src/game/render/objectives.ts
+Uplink lost	1	src/game/render/objectives.ts
+Uplink relay	1	src/unit-info.ts
+Uplink time (s)	1	src/ui/report.ts
+Uplink under attack!	1	src/game/render/objectives.ts
+VICTORY	1	src/ui/report.ts
+Valkyrie	1	src/game/heroes.ts
+Vandal	1	src/game/heroes.ts
+Vehicles	1	src/ui/hud.ts
+Veteran 	1	src/game/callouts.ts
+Viper	1	src/game/heroes.ts
+Viper (Lancer, 9 kills)	1	src/game/heroes.ts
+Vipers	1	src/game/heroes.ts
+Vixen	1	src/game/heroes.ts
+Voice off (tap to turn on)	1	src/ui/audio-panel.ts
+WEBGL_debug_renderer_info	1	src/game/three/stage.ts
+Waiting for your friend to open the link…	1	src/versus/lobby.ts
+Waiting for…	1	src/ffa/feed.ts
+Waiting…	1	src/ffa/feed.ts
+Walking	1	src/ui/hud.ts
+Warning	1	src/unit-info.ts
+Wasp	1	src/sim/balance.ts
+Wasps, Hornets, Scouts	1	src/ui/hud.ts
+Wasps, Mastodons, Hornets	1	src/ui/hud.ts
+Wastes	1	src/sim/mapgen.ts
+Watch for attacks coming through the fog, or spot the next field.	1	src/unit-info.ts
+Water	1	src/sim/balance.ts
+Wave 5	1	src/game/announce.ts
+Waves	1	src/sim/ops.ts
+We're out	1	src/game/finale.ts
+We're out of the fight	1	src/game/callouts.ts
+Weak against	1	src/unit-info.ts
+Weak against other infantry: Troopers and Snipers cut it down.	1	src/unit-info.ts
+Wed	1	src/game/daily.ts
+Wed 7 Oct	1	src/game/daily.ts
+What observe() shows	1	src/arena/observe.ts
+Whiteout	1	src/sim/mapgen.ts
+Willow	1	src/sim/mapgen.ts
+Win	1	src/game/career.ts
+Win after your army fell to half of theirs	1	src/sim/awards.ts
+Win having harvested twice the enemy's scrap	1	src/sim/awards.ts
+Win in under 5:00	1	src/sim/awards.ts
+Win in under 8:00	1	src/game/career.ts
+Win losing 5 units or fewer	1	src/sim/awards.ts
+Wins cost-for-cost against Flak Crawlers, Mortars and Lancers, but cannot shoot at aircraft.	1	src/unit-info.ts
+Woods	1	src/sim/balance.ts
+World.out	1	src/sim/combat.ts
+World.rules	1	src/sim/rules.ts
+World.sides	1	src/sim/sides.ts
+Wraith	1	src/game/heroes.ts
+Wrecking Crew	1	src/sim/awards.ts
+X...............	1	src/game/score.ts
+X.........x.....	1	src/game/score.ts
+X.......X.......	1	src/game/score.ts
+X.......X.x.....	1	src/game/score.ts
+X.....x....X....	1	src/game/score.ts
+X.....x.X.......	1	src/game/score.ts
+X..x....X.x..x..	1	src/game/score.ts
+X.xX..x.X.x...x.	1	src/game/score.ts
+XZY	1	src/game/three/goliath.ts
+YOU LOST	1	src/arena/match.ts
+YOU WON	1	src/arena/match.ts
+YOUR LAST ORDERS	1	src/arena/observe.ts
+YZX	1	src/game/three/goliath.ts
+You have no HQ; your units' current positions are in the observation.	1	src/arena/observe.ts
+You left: no result	1	src/versus/hud.ts
+You resigned	1	src/game/finale.ts
+You're back in command	1	src/ffa/feed.ts
+You're out. Keep this page open: the battle runs on it. Watch the rest from here	1	src/ffa/feed.ts
+You're out. The fog lifts: watch the rest, or leave from the menu	1	src/game/GameScene.ts
+Your anchored Goliath replaces your HQ and can also train harvesters. Starting units and scrap are shown in the observation.	1	src/arena/observe.ts
+Your defences destroy 30 enemy units	1	src/sim/awards.ts
+Your economy: drives to the nearest scrap or crystal field, fills its hold and hauls it back to the HQ or a Depot.	1	src/unit-info.ts
+Your friend is back in the lobby	1	src/versus/hud.ts
+Your friend is here. Linking…	1	src/versus/lobby.ts
+Your friend resigned	1	src/game/finale.ts
+Your friend's connection has gone quiet. Wait a moment, or tap Cancel if your friend left.	1	src/versus/lobby.ts
+Your friend's phone has gone quiet. Bring the phones closer, or tap Cancel if your friend left.	1	src/versus/lobby.ts
+Your friend's phone has the older version.	1	src/versus/lobby.ts
+Your friend's phone is there. Linking…	1	src/versus/lobby.ts
+Your harvester mines scrap by itself. Open Base and tap Fab to build a factory.	1	src/ui/hud.ts
+Your harvesters mine on their own. Tap a unit (or ⚔ Select army), then tap the map to send it.	1	src/ui/hud.ts
+Your harvesters mine on their own. Train tanks in Vehicles, then tap a unit and tap the map to send it.	1	src/ui/hud.ts
+Your link dropped: an AI plays your side until you're back	1	src/ffa/feed.ts
+Your page and the host's run different versions: reload both pages, then try again.	1	src/ffa/lobby.ts
+Your rivals $1	1	src/game/chronicle.ts
+Your rivals fielded	1	src/game/chronicle.ts
+Your ⚡ meter can pay for a calldown. Tap a glowing button on the right, then the map.	1	src/ui/powers.ts
+ZXY	1	src/game/three/goliath.ts
+Zephyr	1	src/game/heroes.ts
+Zone	1	src/unit-info.ts
+Zoom in (+)	1	src/ui/hud.ts
+Zoom out (−)	1	src/ui/hud.ts
+[data-edge-avoid], .zoombtns, .minimap-wrap	1	src/game/placement-view.ts
+\n      	1	src/ui/report.ts
+\nattribute float canopy;\nvarying float vCanopy;\nvarying float vTreeY;	1	src/game/three/materials.ts
+\nvCanopy = canopy;\nvTreeY = position.y;	1	src/game/three/materials.ts
+\nvarying float vCanopy;\nvarying float vTreeY;	1	src/game/three/materials.ts
+]/g, (c) => ({ 	1	src/ui/replay.ts
+a Barrage	1	src/game/calldown-credit.ts
+a bridge	1	src/sim/placement.ts
+a config from the guest	1	src/versus/pairing.ts
+a ford	1	src/sim/placement.ts
+a mixed army, Turrets	1	src/sim/modes/survival.ts
+a modem's sample rate is its context's	1	src/link/worklet-transport.ts
+a phone's output plus input latency must be at least 8 ms	1	src/link/sim/room.ts
+a point that isn't finite	1	src/versus/codec.ts
+a static garrison	1	src/ui/ops.ts
+a tile off the map	1	src/versus/codec.ts
+aDepth	1	src/game/three/terrain.ts
+aar-col l	1	src/ui/report.ts
+aar-col r	1	src/ui/report.ts
+aar-sec aar-head	1	src/ui/report.ts
+air only	1	src/sim/rules.ts
+all stinger	1	src/arena/orders.ts
+all stingers	1	src/arena/orders.ts
+always on	1	src/ui/hud.ts
+an empty unit list	1	src/versus/codec.ts
+an enemy	1	src/game/hero-fx.ts
+an enemy strike was called	1	src/arena/match.ts
+anchor bad	1	src/ui/hud.ts
+anchor go	1	src/ui/hud.ts
+any building	1	src/sim/awards.ts
+army near	1	src/arena/orders.ts
+army near 30,25	1	src/arena/orders.ts
+assaultValue: Infinity, harassGroup: Infinity	1	src/sim/ai/commander.ts
+at their base	1	src/game/chronicle.ts
+at your base	1	src/game/chronicle.ts
+atLeast	1	src/game/finale.ts
+attack (target out of sight)	1	src/arena/observe.ts
+attack needs a "target": an enemy id	1	src/arena/orders.ts
+attackerId	1	src/sim/combat.ts
+attribute vec4 aStone;\nattribute float aSteep;\nvarying vec4 vStone;\nvarying float vSteep;	1	src/game/three/terrain-glsl.ts
+await loadWorklet(ctx)	1	src/link/worklet-transport.ts
+blurb opblurb	1	src/main.ts
+board needs "condor": the id of one of your Condors	1	src/arena/orders.ts
+boardRange	1	src/sim/balance.ts
+bring the phones closer	1	src/versus/session.ts
+build this	1	src/game/advisor.ts
+building | cost | hp | size | build time (s) | needs | weapon | notes	1	src/arena/observe.ts
+buildingKind	1	src/game/juice.ts
+buildingsKilled	1	src/ui/report.ts
+buildingsLost	1	src/ui/report.ts
+by the crossings	1	src/sim/mapgen.ts
+by the enemy Sky Hammer	1	src/game/hero-fx.ts
+by us	1	src/game/callouts.ts
+byBuilding	1	src/game/chronicle.ts
+call next wave	1	src/ui/survival.ts
+canPlaceBuilding	1	src/sim/placement.ts
+canSee	1	src/game/controller.ts
+cancel one	1	src/sim/economy.ts
+cancel what? a unit kind (with "at": building or Goliath id) or "building"	1	src/arena/orders.ts
+carried Goliaths fire automatically: move or attack-move the lift, then unload to land before giving an attack order	1	src/arena/orders.ts
+carrierIds	1	src/sim/types.ts
+chirps only	1	src/game/audio.ts
+clearInterval	1	src/link/rig.ts
+clearTimeout	1	src/link/rig.ts
+close in with Stingers or Wasps	1	src/game/awareness.ts
+confHash	1	src/versus/pairing.ts
+createContext	1	src/link/rig.ts
+createStereoPanner	1	src/game/music.ts
+createTransport	1	src/link/rig.ts
+crystal patch	1	src/ui/map-preview.ts
+crystal patches	1	src/ui/map-preview.ts
+cta alt replay-file	1	src/ui/replay-picker.ts
+cta alt warn	1	src/ui/hud.ts
+cta alt warn duel-cover-leave	1	src/versus/hud.ts
+cutHz	1	src/game/guard-fir.ts
+d (powers.ts): no firing, healing or moving	1	src/sim/combat.ts
+d also be the squad hotkeys)	1	src/ui/openers.ts
+d change nothing, so skip the lookup.	1	src/game/three/materials.ts

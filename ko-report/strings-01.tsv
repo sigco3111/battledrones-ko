@@ -1,0 +1,441 @@
+attackMove	66	src/sim/combat.ts
+packUp	26	src/sim/goliath.ts
+cta alt	21	src/main.ts
+unitIds	16	src/sim/lift.ts
+cancelProduce	15	src/sim/economy.ts
+startBuilding	15	src/sim/economy.ts
+cancelBuilding	14	src/sim/economy.ts
+Fire	13	src/models.ts
+maxLosses	13	src/sim/ops.ts
+placeBuilding	13	src/sim/economy.ts
+s. */	13	src/sim/balance.ts
+toField	13	src/sim/economy.ts
+calldownImpact	12	src/sim/powers.ts
+destroyHq	12	src/sim/ops.ts
+uplinkFlip	10	src/sim/combat.ts
+: "&quot;" })[ch]!);	9	src/main.ts
+]/g, (ch) => ({ 	9	src/main.ts
+cannonL	9	src/models.ts
+goliathLift	9	src/sim/lift.ts
+podL	9	src/models.ts
+#include <common>	8	src/game/three/materials.ts
+Leave (no result)	8	src/ui/hud.ts
+callWave	8	src/sim/sim.ts
+cannonR	8	src/models.ts
+goliathWeapon	8	src/sim/goliath.ts
+mgL	8	src/models.ts
+ownUnit	8	src/game/GameScene.ts
+podR	8	src/models.ts
+rankUp	8	src/sim/combat.ts
+Blocked	7	src/sim/goliath.ts
+Resign and leave	7	src/ui/hud.ts
+getItem	7	src/ui/fullscreen.ts
+goliathMode	7	src/sim/goliath.ts
+mgR	7	src/models.ts
+#include <color_fragment>	6	src/game/three/materials.ts
+Aim	6	src/models.ts
+Copy debug info	6	src/game/GameScene.ts
+Drop	6	src/models.ts
+Goliath	6	src/sim/balance.ts
+Pairing failed: tap to retry	6	src/versus/lobby.ts
+Rematch	6	src/main.ts
+Unit in the way	6	src/sim/goliath.ts
+goliathRollout	6	src/sim/economy.ts
+ownBuilding	6	src/game/GameScene.ts
+setDown	6	src/sim/lift.ts
+setItem	6	src/ui/fullscreen.ts
+Bank	5	src/models.ts
+Damaged	5	src/models.ts
+Enemy aircraft detected	5	src/game/announcer.ts
+Our HQ has fallen	5	src/sim/ops.ts
+Signal lost	5	src/versus/feed.ts
+Wreck	5	src/models.ts
+crateClaimed	5	src/sim/objectives.ts
+crateIncoming	5	src/sim/objectives.ts
+eyeDark	5	src/game/three/goliath.ts
+noContest	5	src/versus/feed.ts
+s clock. */	5	src/link/rig.ts
+shoulderL	5	src/game/three/goliath.ts
+shoulderR	5	src/game/three/goliath.ts
+Blue	4	src/models.ts
+Checking sync…	4	src/versus/hud.ts
+Close	4	src/ui/career.ts
+Dev and test modes	4	src/ui/fullscreen.ts
+Enemy HQ destroyed	4	src/sim/ops.ts
+First blood	4	src/game/announce.ts
+Fly	4	src/models.ts
+Friend	4	src/ui/report.ts
+Neutral	4	src/models.ts
+Off the map	4	src/sim/goliath.ts
+Red	4	src/models.ts
+Scrap	4	src/unit-info.ts
+Scrap salvaged	4	src/ui/report.ts
+Squad lost	4	src/game/callouts.ts
+Tap to reconnect the sound link	4	src/versus/hud.ts
+The rig was closed	4	src/link/rig.ts
+Too far from base	4	src/sim/placement.ts
+Turning point!	4	src/ui/awareness.ts
+Walk	4	src/models.ts
+YXZ	4	src/game/three/goliath.ts
+You	4	src/ui/hud.ts
+addEventListener	4	src/ui/fullscreen.ts
+carrierId	4	src/sim/types.ts
+crateExpired	4	src/sim/objectives.ts
+crateLanded	4	src/sim/objectives.ts
+cta big	4	src/main.ts
+eyeLove	4	src/game/three/goliath.ts
+goliathBuild	4	src/sim/economy.ts
+nearlyDone	4	src/sim/economy.ts
+pointerType	4	src/game/GameScene.ts
+powerOnline	4	src/sim/powers.ts
+removeEventListener	4	src/ui/fullscreen.ts
+s). */	4	src/ui/hud.ts
+t hide)	4	src/sim/infantry.ts
+thighL	4	src/game/three/goliath.ts
+thighR	4	src/game/three/goliath.ts
+toBase	4	src/sim/economy.ts
+uplinkContest	4	src/sim/objectives.ts
+waveIncoming	4	src/sim/types.ts
+your friend	4	src/ui/hud.ts
+ none	3	src/arena/observe.ts
+#include <begin_vertex>	3	src/game/three/terrain-glsl.ts
+#include <emissivemap_fragment>	3	src/game/three/materials.ts
+#include <fog_pars_fragment>	3	src/game/three/terrain-glsl.ts
+).join(", ")}	3	src/ui/ops.ts
+../game/GameScene	3	src/ui/replay.ts
+.aar-moments li	3	src/ui/report.ts
+<button class="cta alt" data-act="cancel">Cancel</button>	3	src/versus/lobby.ts
+Base	3	src/ui/hud.ts
+Battle records	3	src/ui/replay-picker.ts
+Blitz	3	src/sim/openers.ts
+Build Goliath	3	src/models.ts
+Capturing	3	src/models.ts
+Defeat	3	src/game/finale.ts
+Escape	3	src/ui/fullscreen.ts
+Flak	3	src/ui/hud.ts
+Flak, Raptors, SAMs	3	src/ui/hud.ts
+Friend left	3	src/versus/feed.ts
+Ground	3	src/unit-info.ts
+Haul	3	src/models.ts
+Idle	3	src/models.ts
+Link layer	3	src/link/packet-air.ts
+Mortars	3	src/sim/balance.ts
+Not a Goliath	3	src/sim/goliath.ts
+Orders queued	3	src/versus/feed.ts
+Pairing failed	3	src/versus/pairing.ts
+RelayError	3	src/versus/lobby.ts
+Rubble	3	src/models.ts
+Rush	3	src/sim/ai/commander.ts
+Sight	3	src/unit-info.ts
+The rate	3	src/main.ts
+VETERAN	3	src/game/hero-fx.ts
+Victory	3	src/game/finale.ts
+Watching	3	src/main.ts
+ZYX	3	src/game/three/infantry.ts
+aSteep	3	src/game/three/terrain-glsl.ts
+aStone	3	src/game/three/terrain-glsl.ts
+bigExplosion	3	src/game/audio.ts
+cta alt sheet-close	3	src/main.ts
+dtMs	3	src/ui/hud.ts
+en-US	3	src/sim/ops.ts
+eyeLit	3	src/game/three/goliath.ts
+ghostOk	3	src/game/placement-view.ts
+landTick	3	src/sim/types.ts
+s centre. */	3	src/sim/balance.ts
+s clock	3	src/link/rig.ts
+s entry before red	3	src/versus/feed.ts
+s frame. */	3	src/sim/goliath.ts
+s last frames	3	src/versus/pairing.ts
+s own). */	3	src/unit-info.ts
+s side. */	3	src/sim/awards.ts
+s, then red	3	src/arena/match.ts
+see weapons	3	src/arena/observe.ts
+t). */	3	src/sim/types.ts
+three/examples/jsm/utils/BufferGeometryUtils.js	3	src/game/three/builder.ts
+uplinkLost	3	src/game/audio.ts
+waveCleared	3	src/sim/types.ts
+waveSpawned	3	src/sim/types.ts
+ : ""}</td></tr>	2	src/ui/hud.ts
+ painted	2	src/game/three/goliath.ts
+ vs 	2	src/ui/hud.ts
+#diff button	2	src/main.ts
+#gmode button	2	src/main.ts
+#include <lights_fragment_end>	2	src/game/three/terrain-glsl.ts
+#include <normal_fragment_maps>	2	src/game/three/terrain-glsl.ts
+#include <opaque_fragment>	2	src/game/three/terrain-glsl.ts
+#include <premultiplied_alpha_fragment>	2	src/game/three/terrain-glsl.ts
+#maps .mapcard	2	src/main.ts
+#rndbiome button	2	src/main.ts
+#rndview button	2	src/main.ts
+(orientation: landscape)	2	src/main.ts
+........X.......	2	src/game/score.ts
+3 wins · 1 loss · 0 draws	2	src/versus/hud.ts
+<div class="loadbox">	2	src/main.ts
+<nbits> <base64>	2	src/versus/net-transport.ts
+A new version is ready: reload this phone (and your friend's)	2	src/main.ts
+AbortError	2	src/ffa/lobby.ts
+Air	2	src/unit-info.ts
+Air Swarm	2	src/sim/ai/commander.ts
+Air raid	2	src/game/awareness.ts
+Airpad	2	src/unit-info.ts
+Allow the microphone if asked	2	src/versus/hud.ts
+Anchor	2	src/models.ts
+Any ground unit	2	src/ui/hud.ts
+Assembly Bay	2	src/unit-info.ts
+Attack	2	src/game/awareness.ts
+BUILDINGS	2	src/arena/observe.ts
+Balanced	2	src/sim/ai/commander.ts
+Barrage	2	src/sim/powers.ts
+Battle Drones	2	src/ffa/lobby.ts
+Biggest battle	2	src/game/chronicle.ts
+Boom	2	src/sim/ai/commander.ts
+Bounds	2	src/versus/lockstep.ts
+Bounty earned	2	src/ui/report.ts
+Build	2	src/unit-info.ts
+Buildings destroyed	2	src/ui/report.ts
+Byte	2	src/ffa/lobby.ts
+Calldowns used	2	src/ui/report.ts
+Capture	2	src/unit-info.ts
+Chirps	2	src/ui/audio-panel.ts
+Construct	2	src/models.ts
+Couldn't copy	2	src/ui/hud.ts
+Crates claimed	2	src/ui/report.ts
+DPS	2	src/unit-info.ts
+DRAW	2	src/ui/report.ts
+Direct hit!	2	src/game/callouts.ts
+Disabled in this op	2	src/sim/ops.ts
+Disabled: match rules	2	src/sim/rules.ts
+Drive	2	src/models.ts
+ELITE	2	src/game/hero-fx.ts
+EMP-stunned	2	src/arena/observe.ts
+Easy	2	src/sim/ai/commander.ts
+Ember	2	src/sim/mapgen.ts
+Enemy	2	src/ui/report.ts
+Enemy Goliath nearly complete	2	src/sim/balance.ts
+Enemy drones inbound	2	src/game/awareness.ts
+Eye laser	2	src/sim/balance.ts
+Fab Plant	2	src/unit-info.ts
+Fall	2	src/models.ts
+Flak Crawler	2	src/sim/balance.ts
+Flak, Raptors or a SAM	2	src/game/awareness.ts
+Flak, Raptors or a Turret	2	src/game/awareness.ts
+Friend paused	2	src/versus/hud.ts
+GO before picking	2	src/versus/pairing.ts
+Game audio guard	2	src/game/audio.ts
+Gantry	2	src/unit-info.ts
+Goliath lost	2	src/game/callouts.ts
+Goliath ready	2	src/game/callouts.ts
+Goliath under attack	2	src/game/awareness.ts
+Goliaths fielded	2	src/ui/report.ts
+Green	2	src/models.ts
+HARDENED	2	src/game/hero-fx.ts
+HQ under attack	2	src/game/awareness.ts
+HQ!	2	src/game/awareness.ts
+Hard	2	src/sim/ai/commander.ts
+Harvester	2	src/sim/balance.ts
+Harvesters	2	src/game/awareness.ts
+Held	2	src/models.ts
+Hits	2	src/unit-info.ts
+Hold	2	src/sim/ops.ts
+Host	2	src/ffa/host.ts
+Hover	2	src/models.ts
+Infantry	2	src/vehicles.ts
+Ironclad	2	src/sim/ai/commander.ts
+KeyA	2	src/game/GameScene.ts
+KeyD	2	src/game/GameScene.ts
+KeyS	2	src/game/GameScene.ts
+KeyW	2	src/game/GameScene.ts
+Last Stand waves	2	src/ui/ops.ts
+Leaving…	2	src/versus/feed.ts
+Listening…	2	src/versus/feed.ts
+Love	2	src/models.ts
+March	2	src/models.ts
+MatchFeed and GameScene	2	src/game/GameScene.ts
+Needs open ground	2	src/sim/goliath.ts
+Needs two empty Condors	2	src/sim/lift.ts
+Normal	2	src/sim/ai/commander.ts
+Not enough scrap	2	src/ui/hud.ts
+Not verified	2	src/versus/hud.ts
+OP COMPLETE	2	src/ui/ops.ts
+OUT OF SYNC	2	src/game/GameScene.ts
+OVERRUN	2	src/ui/survival.ts
+Op failed	2	src/game/ops.ts
+Our	2	src/arena/events.ts
+Our Goliath is under attack	2	src/game/callouts.ts
+Our last Goliath has fallen	2	src/game/finale.ts
+Out of time	2	src/sim/ops.ts
+Pack up first	2	src/sim/lift.ts
+Packing up	2	src/sim/goliath.ts
+Peak army	2	src/ui/report.ts
+Playing red	2	src/main.ts
+Proving Grounds	2	src/sim/map.ts
+Purple	2	src/models.ts
+Radio check	2	src/game/announcer.ts
+Range	2	src/unit-info.ts
+Reboot	2	src/models.ts
+Relay not connected	2	src/versus/lobby.ts
+Repair	2	src/models.ts
+Resign	2	src/game/GameScene.ts
+Robot Love	2	src/sim/rules.ts
+Rocket Squads, Wasps, Lancers, Hornets	2	src/ui/hud.ts
+SAM Site	2	src/unit-info.ts
+Scorch	2	src/sim/mapgen.ts
+Scout early and build counters: long-press any build button to see what beats what.	2	src/ui/report.ts
+Scrap harvested	2	src/ui/report.ts
+Segments and rotation	2	src/link/transport.ts
+Signal lost: bring the phones closer	2	src/versus/feed.ts
+Sky Hammer	2	src/sim/powers.ts
+Skyforce	2	src/sim/ai/commander.ts
+Stand	2	src/models.ts
+Supply drop inbound	2	src/game/announce.ts
+Supply drops taken	2	src/ui/report.ts
+Sweep	2	src/models.ts
+Tap to start sound	2	src/versus/lobby.ts
+Troops deployed	2	src/game/callouts.ts
+Try another browser.	2	src/link/rig.ts
+Turret	2	src/unit-info.ts
+Turrets	2	src/sim/ops.ts
+UNITS	2	src/arena/observe.ts
+Uncharted	2	src/main.ts
+Units	2	src/game/awareness.ts
+Units built	2	src/ui/report.ts
+Units destroyed	2	src/ui/report.ts
+Units lost	2	src/ui/report.ts
+Units under attack!	2	src/game/GameScene.ts
+Uplinks captured	2	src/ui/report.ts
+Veterans	2	src/sim/objectives.ts
+Voice	2	src/ui/audio-panel.ts
+Waiting for the host…	2	src/ffa/feed.ts
+Waiting for your friend to load…	2	src/versus/feed.ts
+Waiting for your friend to tap Rematch…	2	src/versus/lobby.ts
+Waiting for your friend…	2	src/versus/hud.ts
+Warning: our HQ is under attack	2	src/game/announcer.ts
+Win without losing a building	2	src/sim/awards.ts
+Worklet	2	src/link/worklet-protocol.ts
+World.powers.active	2	src/sim/powers.ts
+World.units	2	src/sim/transport.ts
+You left · No result	2	src/game/GameScene.ts
+Your MVP	2	src/ui/report.ts
+Your friend is back in the lobby: tap Rematch	2	src/versus/feed.ts
+Your friend left	2	src/versus/lobby.ts
+Your friend's phone has gone quiet	2	src/versus/lobby.ts
+]/g, 	2	src/ffa/host.ts
+an EMP	2	src/game/calldown-credit.ts
+at the centre	2	src/sim/mapgen.ts
+buildingId	2	src/sim/types.ts
+captureOkMs	2	src/versus/feed.ts
+cta sheet-close	2	src/ui/career.ts
+desyncReason	2	src/versus/lockstep.ts
+enemy inbound	2	src/game/awareness-view.ts
+frame keys must ascend	2	src/link/packet-air.ts
+ghostBad	2	src/game/placement-view.ts
+goliathId	2	src/sim/types.ts
+id: false	2	src/unit-info.ts
+idle army	2	src/arena/orders.ts
+link guard:	2	src/main.ts
+localStorage	2	src/versus/feed.ts
+nothing heard	2	src/versus/lobby.ts
+or switched away	2	src/versus/hud.ts
+over sound	2	src/ui/hud.ts
+removeItem	2	src/ui/fullscreen.ts
+rodBL	2	src/game/three/goliath.ts
+rodBR	2	src/game/three/goliath.ts
+rodFL	2	src/game/three/goliath.ts
+rodFR	2	src/game/three/goliath.ts
+s HQ). */	2	src/sim/ops.ts
+s arc), or null. */	2	src/game/render/goliath.ts
+s before red	2	src/versus/lockstep.ts
+s buttons.	2	src/ui/hud.ts
+s constructor (default the browser	2	src/net/relay-socket.ts
+s edge)	2	src/sim/economy.ts
+s events at sim time `t`. */	2	src/game/awareness.ts
+s finishing	2	src/game/render/goliath.ts
+s hint queue. */	2	src/ui/command.ts
+s in reach	2	src/sim/ai/menders.ts
+s machine first).	2	src/net/relay-socket.ts
+s match: main	2	src/main.ts
+s name, or the commander	2	src/ffa/feed.ts
+s next	2	src/versus/lobby.ts
+s only while we can see it)	2	src/game/render/objectives.ts
+s or objective	2	src/unit-info.ts
+s orders, every side	2	src/ffa/feed.ts
+s own	2	src/sim/lift.ts
+s own frame (mirror-fair ties)	2	src/sim/ai/commander.ts
+s own frame (red	2	src/sim/movement.ts
+s own frame)	2	src/sim/maps.ts
+s own frame: red	2	src/sim/economy.ts
+s pick. */	2	src/versus/lobby.ts
+s pieces (tests). */	2	src/link/rig.ts
+s receive quality of this phone (0–7), from its newest frame. */	2	src/versus/lobby.ts
+s ring	2	src/sim/ai/commander.ts
+s rock	2	src/game/three/terrain-glsl.ts
+s turned 180°, green	2	src/sim/movement.ts
+seg ffa-picks	2	src/ffa/lobby.ts
+send() needs at least one frame	2	src/link/packet-air.ts
+sessionStorage	2	src/versus/feed.ts
+sheet-close x	2	src/ui/career.ts
+shinL	2	src/game/three/goliath.ts
+shinR	2	src/game/three/goliath.ts
+sound duel:	2	src/main.ts
+spikeBL	2	src/game/three/goliath.ts
+spikeBR	2	src/game/three/goliath.ts
+spikeFL	2	src/game/three/goliath.ts
+spikeFR	2	src/game/three/goliath.ts
+t allow it. */	2	src/versus/pairing.ts
+t called to board. */	2	src/sim/ai/airlift.ts
+t count	2	src/ui/hud.ts
+t name this phone	2	src/versus/pairing.ts
+t one). */	2	src/game/career.ts
+t tell). */	2	src/link/rig.ts
+t the peer	2	src/versus/pairing.ts
+terrain: fog lookup not found	2	src/game/three/terrain-glsl.ts
+the Sky Hammer	2	src/game/calldown-credit.ts
+the enemy	2	src/game/hero-fx.ts
+the waves	2	src/game/GameScene.ts
+three/examples/jsm/environments/RoomEnvironment.js	2	src/models.ts
+unitId	2	src/sim/transport.ts
+▶ Play	2	src/main.ts
+▶ Play this map	2	src/main.ts
+▶ Start Last Stand	2	src/main.ts
+▶ Your turn	2	src/ui/survival.ts
+★★ Viper · Lancer · 9 kills	2	src/ui/hud.ts
+✓ Copied	2	src/ffa/lobby.ts
+💘 They fell in love	2	src/ui/report.ts
+  {"anchor": ["#97"]}                         anchor a grounded Goliath	1	src/arena/observe.ts
+  {"attack": ["#97", "#83"], "target": "#23"}  attack an enemy unit in sight or a known enemy building	1	src/arena/observe.ts
+  {"attack_move": "army", "to": [30, 25]}      move, fighting everything met on the way	1	src/arena/observe.ts
+  {"board": ["#91", "#133"], "condor": "#103"} infantry squads climb into a Condor	1	src/arena/observe.ts
+  {"build": "turret", "at": [9, 42]}           start a building; "at" (its top-left tile) optional	1	src/arena/observe.ts
+  {"calldown": "barrage", "at": [44, 9]}       barrage, emp, droppod or hammer	1	src/arena/observe.ts
+  {"cancel": "building"}                       cancel the building under construction (refunded)	1	src/arena/observe.ts
+  {"cancel": "stinger", "at": "#10"}           take the last stinger off producer #10's queue (refunded)	1	src/arena/observe.ts
+  {"harvest": ["#3", "#14"], "at": [14, 43]}   harvesters mine a field ("at" optional: the nearest)	1	src/arena/observe.ts
+  {"lift": ["#103", "#104"], "goliath": "#97"} two empty Condors lift a walking Goliath	1	src/arena/observe.ts
+  {"move": ["#97", "#83"], "to": [30, 25]}     move units to a tile, ignoring enemies on the way	1	src/arena/observe.ts
+  {"pack_up": ["#97"]}                        pack up an anchored Goliath	1	src/arena/observe.ts
+  {"produce": "stinger", "count": 2}           queue units at an eligible producer ("at": "#10" to choose a building or Goliath)	1	src/arena/observe.ts
+  {"rally": "#10", "to": [12, 40]}             where building or Goliath #10's new units go	1	src/arena/observe.ts
+  {"sell": "#72"}                              sell a building	1	src/arena/observe.ts
+  {"stop": ["#97"]}                            stop and stand (still shooting back)	1	src/arena/observe.ts
+  {"unload": ["#103"], "at": [11, 11]}         land a carried Goliath or drop a Condor's infantry ("at" optional)	1	src/arena/observe.ts
+ (after the match the friend's reloaded page, under a new nonce,	1	src/versus/session.ts
+ (default)	1	src/arena/match.ts
+ (hot)	1	src/arena/observe.ts
+ (red, green, purple: canonical side order, sim/sides.ts). */	1	src/ffa/protocol.ts
+ (this phone's is older)	1	src/versus/pairing.ts
+ (ui/hud.ts). The sim is deterministic, so the record is the	1	src/game/recorder.ts
+ (your friend's is older)	1	src/versus/pairing.ts
+ 30 s and a	1	src/versus/lobby.ts
+ 48 px: painted on the player	1	src/game/terrain-paint.ts
+ : ""}. @ your HQ, & enemy HQ, U uplink.	1	src/arena/observe.ts
+ : ""}</div>	1	src/ui/career.ts
+ : ""}</h4>	1	src/ui/replay.ts
+ : ""}</li>	1	src/ui/ops.ts
+ : ""}</p>	1	src/ui/survival.ts
+ : ""}</small>	1	src/ui/ops.ts
+ : ""}</span>	1	src/ui/career.ts
+ : ""}</span></p>	1	src/ui/career.ts
+ : ""}\nuniform vec3 uDetail;\nuniform vec3 uFarGround;	1	src/game/three/terrain-glsl.ts
+ : ", attacker unseen"})	1	src/arena/events.ts
+ : ", placed automatically when ready"}	1	src/arena/orders.ts
+ : "Openers are disabled." : ""}	1	src/arena/match.ts

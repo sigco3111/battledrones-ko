@@ -1,0 +1,349 @@
+Heavy armoured bomber that carpet-bombs ground units and buildings with splash damage.	1	src/unit-info.ts
+Heavy bomber. Carpet-bombs ground and bases. Needs escort.	1	src/sim/balance.ts
+Held for 4:00	1	src/sim/ops.ts
+Hex	1	src/game/heroes.ts
+Hoarfrost	1	src/sim/mapgen.ts
+Hold the river crossing against a Rush	1	src/sim/ops.ts
+Hold to fast-forward (3×)	1	src/ui/awareness.ts
+Hold your base against endless, themed waves. How long can you last?	1	src/main.ts
+Holdout	1	src/sim/awards.ts
+Hollow	1	src/sim/mapgen.ts
+Hornet	1	src/sim/balance.ts
+Host left	1	src/ffa/feed.ts
+Host phone	1	src/versus/records.ts
+Host phone · Air Wing	1	src/game/replay.ts
+Hosting. Waiting for your friend to tap Join…	1	src/versus/lobby.ts
+Hover laser tank. Burns through armour, hits air too. Crosses water.	1	src/sim/balance.ts
+Hover tank: crosses water and shallows and ignores rough ground, opening routes no tracked unit can take.	1	src/unit-info.ts
+INPUT	1	src/game/GameScene.ts
+Icefang	1	src/sim/mapgen.ts
+In sync ✓	1	src/versus/hud.ts
+In the battle	1	src/ffa/feed.ts
+Incoming artillery!	1	src/game/callouts.ts
+Industry	1	src/sim/openers.ts
+Infantry War	1	src/sim/rules.ts
+Infantry at long range; hides in woods	1	src/ui/hud.ts
+Infantry cross woods at full speed and take half damage there. Keep them clear of Mastodons: they get crushed.	1	src/ui/command.ts
+Insufficient scrap	1	src/game/callouts.ts
+Interceptor. Hunts air units. Can't hit ground.	1	src/sim/balance.ts
+Invite link	1	src/versus/lobby.ts
+Iron Tide	1	src/sim/ops.ts
+Iron Wall	1	src/sim/awards.ts
+Ironhide	1	src/game/heroes.ts
+Island Uplinks only troops can take: fly them in by Condor. Two bridges.	1	src/sim/maps.ts
+Island 📡 Uplinks: only troops can take them, and they pay while troops hold them. Tap your Condor, then tap an island.	1	src/game/render/objectives.ts
+It's a draw	1	src/game/finale.ts
+Its cannons hit heavy armour harder, and it crushes Stingers, Flak and Mortars.	1	src/unit-info.ts
+Its laser burns through heavy armour (1.55×), making it the Mastodon killer.	1	src/unit-info.ts
+Its point-defence gun swats early drone raids. It can't hit ground units: leave those to real defences.	1	src/unit-info.ts
+Jade	1	src/sim/mapgen.ts
+Jan	1	src/game/daily.ts
+Jinx	1	src/game/heroes.ts
+Join my four-player Battle Drones battle!	1	src/ffa/lobby.ts
+Join the battle	1	src/versus/lobby.ts
+Joining your friend's battle…	1	src/versus/lobby.ts
+Juggernaut	1	src/game/heroes.ts
+Jul	1	src/game/daily.ts
+Jump to the action (J)	1	src/ui/awareness.ts
+Jun	1	src/game/daily.ts
+Keep a bridge turret standing	1	src/sim/ops.ts
+Keeps an army in the fight longer; the AI uses them as army escorts.	1	src/unit-info.ts
+Keeps your army alive; the only repair a Goliath takes	1	src/ui/hud.ts
+Kestrel	1	src/game/heroes.ts
+Kills by defences	1	src/ui/report.ts
+Knocked out	1	src/game/chronicle.ts
+Lagoon	1	src/sim/mapgen.ts
+Lancer	1	src/sim/balance.ts
+Lancers	1	src/game/awareness.ts
+Lancers burn through Mastodons and Wasps strike them from the air. Mortars outrange your Turrets — hunt them with Stingers.	1	src/sim/ops.ts
+Lancers, Mastodons, Wasps	1	src/sim/modes/survival.ts
+Landed	1	src/models.ts
+Laser	1	src/ui/hud.ts
+Last Light	1	src/sim/ops.ts
+Last Stand	1	src/game/GameScene.ts
+Last Stand: survive 10 fast waves	1	src/sim/ops.ts
+Last Stand: survive 10 waves	1	src/sim/awards.ts
+Last Stand: survive 20 waves	1	src/sim/awards.ts
+Last enemy Goliath destroyed. Victory!	1	src/game/callouts.ts
+Last rival knocked out	1	src/game/finale.ts
+Last rival knocked out. Victory!	1	src/game/callouts.ts
+Lasts	1	src/unit-info.ts
+Launches every flying drone, from the Scout to the Condor dropship.	1	src/unit-info.ts
+Lava rivers carve three plateaus. Bridges are choke points; air rules.	1	src/sim/maps.ts
+Leave	1	src/ui/hud.ts
+Leave (an AI takes over)	1	src/ffa/feed.ts
+Leave the battle? An AI takes over your side.	1	src/ffa/feed.ts
+Leave? The battle runs on this page: it ends for everyone, with no result.	1	src/ffa/feed.ts
+Leaves no salvage when destroyed.	1	src/unit-info.ts
+Leaving	1	src/versus/session.ts
+Legend: B your building, E enemy building, o/a your ground/air unit, x/v enemy ground/air unit, U uplink, c crate, ? unexplored; terrain as in the briefing	1	src/arena/observe.ts
+Lieutenant	1	src/game/career.ts
+Light	1	src/vehicles.ts
+Lightning War	1	src/sim/awards.ts
+Listening for your friend's phone (the host)…	1	src/versus/lobby.ts
+Locked	1	src/ui/ops.ts
+Lockstep	1	src/versus/lockstep.ts
+Long-press any build button to see what it counters. ⚔ Select army grabs everyone.	1	src/ui/hud.ts
+Long-range anti-air missiles.	1	src/sim/balance.ts
+Long-range artillery: out-ranges every turret and SAM Site, making it the tool for cracking a base.	1	src/unit-info.ts
+Long-range marksmen. Delete infantry. Useless vs vehicles.	1	src/sim/balance.ts
+Long-range splash artillery. Razes bases. Fragile up close.	1	src/sim/balance.ts
+Lose it and every Goliath, and you lose the game.	1	src/unit-info.ts
+Lose it and those units can't be built again until you rebuild it.	1	src/unit-info.ts
+Lost	1	src/sim/ops.ts
+Lost in the drop	1	src/game/callouts.ts
+Lost what we had to protect	1	src/sim/ops.ts
+Lynx	1	src/game/heroes.ts
+M20 2 L36 8 V20 C36 30 28.5 35.5 20 38.5 C11.5 35.5 4 30 4 20 V8 Z	1	src/ui/career.ts
+MASTODON DOWN	1	src/game/callouts.ts
+Machine guns	1	src/sim/balance.ts
+Magma	1	src/sim/mapgen.ts
+Major	1	src/game/career.ts
+Mako	1	src/game/heroes.ts
+Mangrove	1	src/sim/mapgen.ts
+Mantis	1	src/game/heroes.ts
+Map objectives	1	src/unit-info.ts
+Mar	1	src/game/daily.ts
+Marshal	1	src/game/career.ts
+Mastodon	1	src/sim/balance.ts
+Mastodon Spearhead	1	src/sim/modes/survival.ts
+Mastodons	1	src/game/awareness.ts
+Mastodons 1/2	1	src/ui/ops.ts
+Mastodons destroyed	1	src/ui/report.ts
+Mastodons, Goliaths, Flak, Raptors; crosses water	1	src/ui/hud.ts
+Mastodons, Goliaths, Hornets, heavy armour	1	src/ui/hud.ts
+Mastodons, Wasps or a Turret	1	src/game/awareness.ts
+MatchFeed and	1	src/versus/hud.ts
+Maverick	1	src/game/heroes.ts
+May	1	src/game/daily.ts
+Meadow	1	src/sim/mapgen.ts
+Medals earned	1	src/ui/career.ts
+Medium	1	src/vehicles.ts
+Mender	1	src/sim/balance.ts
+Mere	1	src/sim/mapgen.ts
+Mesas	1	src/sim/mapgen.ts
+Microphone refused	1	src/link/rig.ts
+Mine scrap. Build your swarm. Destroy the enemy HQ and its Goliaths.	1	src/main.ts
+Mines scrap and crystal. Keep it safe.	1	src/sim/balance.ts
+Mirage	1	src/sim/mapgen.ts
+Mixed Assault	1	src/sim/modes/survival.ts
+Moats	1	src/sim/mapgen.ts
+ModemError	1	src/versus/lobby.ts
+Modules	1	src/link/sim/room.ts
+Mon	1	src/game/daily.ts
+Monsoon	1	src/sim/mapgen.ts
+Mortar	1	src/sim/balance.ts
+Mortars, Hornets	1	src/ui/hud.ts
+Mortars, Turrets or Snipers	1	src/game/awareness.ts
+Mortars, Turrets, Hornets, Sniper Teams	1	src/sim/modes/survival.ts
+Move as one group — whatever arrives alone dies alone. Stingers kill the Flak, Raptors the fighters, Hornets flatten SAM sites; then everything on the HQ.	1	src/sim/ops.ts
+Music	1	src/ui/audio-panel.ts
+Mutators active	1	src/game/meta.ts
+Mute all	1	src/main.ts
+Mute all (sound settings in the pause menu)	1	src/ui/hud.ts
+NEW RECORD!	1	src/ui/survival.ts
+NO RESULT	1	src/ui/report.ts
+Needs a Fab Plant, an Airpad or an Assembly Bay first.	1	src/unit-info.ts
+Needs every other factory and the Tech Lab. One per side.	1	src/unit-info.ts
+NetError	1	src/net/relay-socket.ts
+New record!	1	src/game/survival.ts
+New version ready	1	src/ui/update.ts
+Next op	1	src/ui/report.ts
+Next to useless against armour and buildings, and slow to fire: keep vehicles away from it.	1	src/unit-info.ts
+No Tech Lab by 6:00. It unlocks Mastodons, Lancers, Mortars, Hornets and Sniper Teams.	1	src/game/chronicle.ts
+No calldowns in this match	1	src/sim/powers.ts
+No contest: the players' games drifted apart	1	src/game/GameScene.ts
+No contest: the two phones' games drifted apart	1	src/game/GameScene.ts
+No fog of war: both sides see everything	1	src/sim/rules.ts
+No ground combat units, Condors, Fab Plants, Assembly Bays or SAM sites: dogfights decide it	1	src/sim/rules.ts
+No medals this time — the Career sheet lists what to aim for.	1	src/ui/career.ts
+No microphone available: close other apps using it and try again	1	src/link/rig.ts
+No result	1	src/game/GameScene.ts
+No way across: only troops flown in by Condor can take islands	1	src/game/controller.ts
+No way across: two empty Condors can lift a Goliath there	1	src/game/controller.ts
+Nobody else was in the battle for 10 minutes	1	src/net/relay-socket.ts
+Nomads	1	src/sim/rules.ts
+Not anchored	1	src/sim/goliath.ts
+Not on water	1	src/sim/placement.ts
+NotAllowedError	1	src/link/rig.ts
+Nothing heard yet. One phone taps Host, the other Join	1	src/versus/pairing.ts
+Nothing to copy	1	src/ui/hud.ts
+Nov	1	src/game/daily.ts
+Nova	1	src/game/heroes.ts
+OP FAILED	1	src/ui/ops.ts
+OPENERS. Before the first round each side picks one opener card (both picks are revealed together). Choose with orders([{"opener": "blitz"}]) then end_round.	1	src/arena/observe.ts
+OPENERS. Disabled by this match's mutators. In round 0 call end_round with your plan; unit orders begin in round 1.	1	src/arena/observe.ts
+ORDERS (a list of these objects). Unit lists hold unit ids ("#97", as the observation shows them) or selector strings; tiles are [x, y] and go in "to" or "at".	1	src/arena/observe.ts
+Objective complete	1	src/sim/ops.ts
+Objective failed	1	src/sim/ops.ts
+Objective scrap	1	src/ui/report.ts
+Obsidian	1	src/sim/mapgen.ts
+Oct	1	src/game/daily.ts
+On a lift	1	src/sim/goliath.ts
+One Goliath left	1	src/game/callouts.ts
+One minute left	1	src/game/ops.ts
+One minute to hold	1	src/game/ops.ts
+One per side	1	src/sim/economy.ts
+One unit scores 9 kills	1	src/sim/awards.ts
+Only http and https links can be loaded	1	src/game/replay.ts
+Onyx	1	src/game/heroes.ts
+Op complete	1	src/game/ops.ts
+Open sands between towering mesas. Three lanes, rich wrecks.	1	src/sim/maps.ts
+Open sea	1	src/sim/balance.ts
+Orbital	1	src/sim/awards.ts
+Orbital strike ready. Tap its button, then the map	1	src/game/render/powers.ts
+Orchid	1	src/sim/mapgen.ts
+Order delay	1	src/versus/hud.ts
+Orders	1	src/arena/orders.ts
+Orders and notes	1	src/ui/replay.ts
+Our HQ has fallen. Mission failed.	1	src/game/callouts.ts
+Our base is under attack	1	src/game/callouts.ts
+Our last Goliath fights on	1	src/game/callouts.ts
+Our last Goliath has fallen. Mission failed.	1	src/game/callouts.ts
+Our units are under fire	1	src/game/callouts.ts
+Out of reach: pack up first (G) to go after it	1	src/game/controller.ts
+Out of sync: no contest	1	src/versus/hud.ts
+Out-mine them now, out-build them later.	1	src/sim/openers.ts
+Outpost: doesn't extend build range	1	src/ui/hud.ts
+Own the skies. Wasps hunt tanks and harvesters.	1	src/sim/openers.ts
+PROMOTED	1	src/ui/career.ts
+Pacing	1	src/versus/lockstep.ts
+Pack up first (G)	1	src/game/controller.ts
+Pair it with a Turret to cover both.	1	src/unit-info.ts
+Pairing	1	src/versus/pairing.ts
+Parachuted onto the battlefield in pairs: the first unit there takes it.	1	src/unit-info.ts
+Park units on a 📡 Uplink to take it: scrap, vision, ⚡ charge. Scout to find them.	1	src/game/render/objectives.ts
+Park units on a 📡 Uplink to take it: scrap, vision, ⚡ charge. Tap to look.	1	src/game/render/objectives.ts
+Parrot	1	src/sim/mapgen.ts
+Patch	1	src/game/heroes.ts
+Pause (P)	1	src/ui/hud.ts
+Pause, resign, leave, background	1	src/versus/hud.ts
+PermissionDeniedError	1	src/link/rig.ts
+Practice link	1	src/versus/lobby.ts
+Private	1	src/game/career.ts
+Production	1	src/unit-info.ts
+Production queue full	1	src/ui/hud.ts
+Pulled ahead	1	src/game/chronicle.ts
+QR code of the invite link	1	src/versus/lobby.ts
+Quick enough to raid harvesters and outrun slower armour.	1	src/unit-info.ts
+Quit to menu	1	src/ui/hud.ts
+R.......F.......	1	src/game/score.ts
+R...r...F...r...	1	src/game/score.ts
+R..r..F.R.r.O.F.	1	src/game/score.ts
+R..r..r.R..r..F.	1	src/game/score.ts
+R.r.r.r.R.r.r.O.	1	src/game/score.ts
+R.r.rr.rR.r.rr.F	1	src/game/score.ts
+R.rR.rF.R.rrO.Fr	1	src/game/score.ts
+R.rr.r.rR.r.rO.F	1	src/game/score.ts
+R.rr.rr.R.rr.FO.	1	src/game/score.ts
+READY	1	src/ui/powers.ts
+REPAIRED	1	src/game/render/objectives.ts
+ROUND 0: CHOOSE YOUR OPENER. The battle starts once both sides have picked (the picks are revealed together).	1	src/arena/match.ts
+ROUND 0: READY. Openers are disabled by this match's mutators. Call end_round with your plan in the notes; unit orders begin in round 1.	1	src/arena/match.ts
+RULES IN BRIEF	1	src/arena/observe.ts
+Radar	1	src/sim/balance.ts
+Raid	1	src/game/awareness.ts
+Raids by ground or air, infantry	1	src/ui/hud.ts
+Rally point set: pack up first (G) to move the Goliath	1	src/game/controller.ts
+Rampage	1	src/game/callouts.ts
+Rampart	1	src/game/heroes.ts
+Rapid Fab	1	src/sim/rules.ts
+Raptor	1	src/sim/balance.ts
+Rare supply drop!	1	src/game/render/objectives.ts
+Rascal	1	src/game/heroes.ts
+Ratchet	1	src/game/heroes.ts
+Reach	1	src/sim/mapgen.ts
+Receiving out of order	1	src/versus/lockstep.ts
+Reconnecting: an AI plays your side meanwhile	1	src/ffa/feed.ts
+Reconnecting…	1	src/versus/hud.ts
+Records	1	src/versus/records.ts
+Red HQ	1	src/game/awareness.ts
+Red MVP	1	src/ui/report.ts
+Rematch · tap to reconnect<br /><small>(allow the microphone if asked)</small>	1	src/main.ts
+Rematch · tap to start	1	src/main.ts
+Repair drone. Heals nearby units and buildings.	1	src/sim/balance.ts
+Repair drone: a beam that heals one damaged friendly unit or building in range at a time.	1	src/unit-info.ts
+Replacement Condor inbound	1	src/game/callouts.ts
+Replacement Condor inbound, a squad aboard	1	src/game/callouts.ts
+Replay	1	src/link/transport.ts
+Rerolls pick any biome	1	src/main.ts
+Research, not production: it unlocks the heavier units at the other factories.	1	src/unit-info.ts
+Resign? Your side is knocked out and the others play on.	1	src/ffa/feed.ts
+Resigning…	1	src/versus/hud.ts
+Reveals a wide area through the fog.	1	src/sim/balance.ts
+Rift	1	src/sim/mapgen.ts
+Rig	1	src/link/rig.ts
+Rig > Lifecycle	1	src/versus/hud.ts
+RigError	1	src/link/rig.ts
+Rime	1	src/sim/mapgen.ts
+Rings	1	src/sim/mapgen.ts
+Riverlands	1	src/sim/maps.ts
+Riverlands · vs Rush AI (Normal)	1	src/ui/openers.ts
+Road	1	src/sim/balance.ts
+Robot Love needs exactly two sides	1	src/sim/maps.ts
+Robot infantry only: no combat vehicles, combat aircraft or Fab Plants	1	src/sim/rules.ts
+Rock	1	src/sim/balance.ts
+Rocket Squad	1	src/sim/balance.ts
+Rocket Squads	1	src/game/advisor.ts
+Rocket Squads, Lancers or Wasps	1	src/game/awareness.ts
+Rocket Squads, Lancers, Wasps	1	src/ui/hud.ts
+Rocket Squads, Wasps, Lancers or Hornets	1	src/game/awareness.ts
+Rocket Squads, light raids; shoots air too	1	src/ui/hud.ts
+Rocket strike drone that flies over every obstacle to hit ground targets.	1	src/unit-info.ts
+Rockets	1	src/ui/hud.ts
+Rook	1	src/game/heroes.ts
+Rough ground	1	src/sim/balance.ts
+Round trip: measuring…	1	src/versus/lobby.ts
+Rrr.rrr.Rrr.rrOF	1	src/game/score.ts
+Run	1	src/sim/mapgen.ts
+Rush and Boom	1	src/game/GameScene.ts
+Rush, Boom and Skyforce	1	src/game/GameScene.ts
+SALVAGE HAUL	1	src/game/render/wrecks.ts
+SALVAGE.shiftRadius	1	src/sim/salvage.ts
+SAM	1	src/ui/hud.ts
+SAM Sites	1	src/game/advisor.ts
+SIGNAL LOST	1	src/game/GameScene.ts
+SINCE YOUR LAST TURN	1	src/arena/observe.ts
+STRIKE WARNINGS	1	src/arena/observe.ts
+SUPPLY CRATES (first non-harvester unit to touch one claims it)	1	src/arena/observe.ts
+Sable	1	src/game/heroes.ts
+Saltpan	1	src/sim/mapgen.ts
+Salvage	1	src/ui/report.ts
+Sandstone	1	src/sim/mapgen.ts
+Sat	1	src/game/daily.ts
+Save battle	1	src/versus/feed.ts
+Scavenger	1	src/sim/awards.ts
+Scout	1	src/sim/balance.ts
+Scrap field	1	src/sim/balance.ts
+Scrap, vision and command charge while they hold it	1	src/game/render/objectives.ts
+Scripted seats	1	src/arena/scripted.ts
+Scroll left	1	src/ui/hscroll.ts
+Scroll right	1	src/ui/hscroll.ts
+SecurityError	1	src/link/rig.ts
+See the whole map before the match	1	src/main.ts
+Seed: type or paste a code to grow that map	1	src/main.ts
+Seek	1	src/ui/replay.ts
+Select and copy the link	1	src/versus/lobby.ts
+Sep	1	src/game/daily.ts
+Sergeant	1	src/game/career.ts
+Shallows	1	src/sim/balance.ts
+Shells are real projectiles with splash, aimed where the target was — fast units can dodge them.	1	src/unit-info.ts
+Shoot down 30 enemy aircraft	1	src/sim/awards.ts
+Short missions with a twist. Three stars each — can you take them all?	1	src/main.ts
+Since your last turn	1	src/arena/events.ts
+Sirocco	1	src/sim/mapgen.ts
+Sisters	1	src/sim/mapgen.ts
+Sky Hammer inbound!	1	src/game/render/powers.ts
+Sky Hammer online	1	src/game/render/powers.ts
+Sky Hammer ready	1	src/game/announce.ts
+Sky Hammer: triple kill	1	src/game/callouts.ts
+Sky Pirates	1	src/sim/ops.ts
+Slow and unable to shoot at air — Wasps and Lancers are its nightmare.	1	src/unit-info.ts
+Slowest order	1	src/versus/hud.ts
+Sniper Team	1	src/sim/balance.ts
+Sniper Teams	1	src/game/advisor.ts
+Snipers	1	src/ui/hud.ts
+Snipers, Mortars, Hornets, Turrets	1	src/ui/hud.ts
+Snowdrift	1	src/sim/mapgen.ts
+Some sit on islands only robot infantry flown in by Condor can take, and an island relay pays only while troops stand on it.	1	src/unit-info.ts
+Someone	1	src/game/chronicle.ts

@@ -1,0 +1,254 @@
+s room code (net-transport.ts): the rematch meets in the same room, over the relay. */	1	src/versus/records.ts
+s room code (null: over sound, or a practice link). */	1	src/versus/feed.ts
+s room: its code, and the link the host sends. */	1	src/versus/lobby.ts
+s rooms go)	1	src/ffa/feed.ts
+s root	1	src/game/three/models.ts
+s root or fifth.	1	src/game/score.ts
+s root). */	1	src/game/render/entities.ts
+s root: a version	1	src/game/replay.ts
+s rotation that	1	src/versus/lockstep.ts
+s rotation: its own transmit period, as	1	src/versus/lockstep.ts
+s round (the LLM driver sends it). */	1	src/arena/match.ts
+s round trip (a ping	1	src/link/transport.ts
+s round trip is the relay	1	src/versus/lobby.ts
+s round trip once the pairing measures it.	1	src/versus/lobby.ts
+s round trip through the relay. */	1	src/ffa/host.ts
+s round trip would be the friend	1	src/versus/lobby.ts
+s round: what it ordered (in its own frame), what came back, its notes and radio. */	1	src/arena/record.ts
+s route above this calls it off: a downed Condor drops the Goliath. */	1	src/sim/ai/goliath.ts
+s rows: "Order delay" "620 ms average" and "Slowest order" "1.4 s" ("–" before any order). */	1	src/versus/hud.ts
+s rule)	1	src/sim/fmath.ts
+s rule, and its blast	1	src/game/render/juice-view.ts
+s rule: a strike that would catch our units or buildings)	1	src/game/GameScene.ts
+s rules (null = allowed): a mutator	1	src/sim/rules.ts
+s rules ban (a mutator, an op) counters nothing: no ⚔, no card line	1	src/game/advisor.ts
+s rules for both sides (no stars). Tap your rank on the menu for medals and records.</p>	1	src/ui/hud.ts
+s rules, over the world	1	src/game/controller.ts
+s rules: each order as the sim would take it now (economy.ts), in the order they were given. */	1	src/game/controller.ts
+s rumble on the move	1	src/models.ts
+s run at 41 ms stalled 0.54%), at	1	src/versus/pairing.ts
+s running mean settled, read under 12 (which	1	src/versus/pairing.ts
+s running time for capture. */	1	src/link/rig.ts
+s rxq of this phone while its frames do (PEER_HEARD_MS);	1	src/versus/lobby.ts
+s rxq), and the	1	src/versus/lobby.ts
+s sake: the opener	1	src/versus/lobby.ts
+s salt if it fails; the last resort carves a	1	src/sim/mapgen.ts
+s salvage pop, in the collector	1	src/game/render/wrecks.ts
+s salvage sweeps (salvage.ts has the rules). It plays by the	1	src/sim/ai/salvage.ts
+s salvage. The next cleanupDeaths takes	1	src/sim/combat.ts
+s sample points (three close together per grid point) and the highest surface over each. */	1	src/game/render/entities.ts
+s sample points to the height of any triangle of `geo` (moved by ox, oy, oz) above it. */	1	src/game/render/entities.ts
+s sample rate. */	1	src/link/sim/room.ts
+s sampleRate, currentFrame,	1	src/link/worklet.ts
+s scaffold arms, crane jib and	1	src/game/three/models.ts
+s scattered salvage. */	1	src/game/three/models.ts
+s scene. */	1	src/models.ts
+s scrap goes straight to the bank, not into	1	src/sim/ai/salvage.ts
+s scrap load (shown when full). */	1	src/game/three/models.ts
+s scrap, or mirror of ours. */	1	src/sim/ai/commander.ts
+s scrap, queues or orders.	1	src/arena/observe.ts
+s scratch arc (5 points), refilled per arc: no per-frame garbage. */	1	src/game/render/powers.ts
+s screen derivatives)	1	src/game/three/terrain-glsl.ts
+s screen derivatives, for the mip level: taken while control flow is uniform)	1	src/game/three/terrain-glsl.ts
+s screen. An enemy death shows only if	1	src/arena/events.ts
+s seam (SOUND-DUEL.md "Link layer"): what the lockstep and	1	src/link/transport.ts
+s seat (src/versus/records.ts, which the viewer may not import): which phone played it. */	1	src/game/replay.ts
+s seat goes to a stand-in; the host	1	src/ffa/feed.ts
+s seat goes to an AI stand-in, the	1	src/ffa/feed.ts
+s seat joins <code>k as its	1	src/ffa/protocol.ts
+s seat,	1	src/ffa/lobby.ts
+s seat; an online rematch says so itself	1	src/main.ts
+s seats as every page shows them. */	1	src/ffa/host.ts
+s seats for the selection panel: a portrait (and robots standing) per squad aboard, dashed empty seats. */	1	src/ui/hud.ts
+s second harmonic, 32–38 kHz, would fold back to 6–16 kHz, right	1	src/link/sim/room.ts
+s second try: made in the tap, the context may hold the session	1	src/link/rig.ts
+s section shows its own tip and the stars still to earn	1	src/ui/report.ts
+s seed for a seat a person leaves (it takes over: the same on every page). */	1	src/ffa/protocol.ts
+s seed. */	1	src/sim/maps.ts
+s seek bar	1	src/versus/records.ts
+s seek put the world back to that tick, and what	1	src/game/chronicle.ts
+s seek puts the world back to a saved copy, whose Uplinks are new objects)	1	src/ui/objectives.ts
+s seek): its Uplinks and crates are new objects, and crates came	1	src/game/render/objectives.ts
+s seek, GameScene.seek), in	1	src/game/restore.ts
+s selected Goliaths standing on the ground (not hooked onto Condors or carried), as ahead() has them. */	1	src/game/controller.ts
+s selection, the command	1	src/game/controller.ts
+s sentence when this context	1	src/link/rig.ts
+s session and a second one, the	1	src/versus/loop-peer.ts
+s session and link go (Back, a role switch, Cancel, an	1	src/versus/lobby.ts
+s session key for game frames once keyed), then one	1	src/versus/relay-transport.ts
+s session key when it sent it. */	1	src/link/packet-air.ts
+s session type across a reload, and a	1	src/main.ts
+s setSessionKey) the hold drops to what makes	1	src/versus/loop-peer.ts
+s setting (1, 1.5, 2; spectators also 4). */	1	src/game/awareness.ts
+s setting, or the rematch	1	src/versus/lobby.ts
+s settings while the guard is on: a limiter (hard knee,	1	src/game/audio.ts
+s settings. */	1	src/game/audio.ts
+s settings: at `at` (context time) when given, else now,	1	src/game/audio.ts
+s shade takes (less blue: a cooler shade). */	1	src/game/three/materials.ts
+s shade)	1	src/game/three/terrain-glsl.ts
+s shadow box over this pad	1	src/models.ts
+s shadow box over what the camera sees. */	1	src/game/three/stage.ts
+s shadow frustum	1	src/game/three/stage.ts
+s shapes. */	1	src/game/three/ground-gfx.ts
+s share of Troopers. Under Infantry	1	src/sim/ai/commander.ts
+s share of the price, and what its queue paid: ours on the way	1	src/game/controller.ts
+s shared callsign registry. */	1	src/game/heroes.ts
+s shelf can pass for a ford.)	1	src/ui/map-preview.ts
+s shells). */	1	src/sim/awards.ts
+s shells; an EMP: what it froze). */	1	src/game/chronicle.ts
+s short (lifeline.ts). */	1	src/sim/maps.ts
+s shot leaves it (world), into `out`. */	1	src/game/three/goliath.ts
+s shot, alternating left and right where it has two. */	1	src/game/render/goliath.ts
+s shoulder badge: chevrons (enlisted), bars (officers), stars (command). */	1	src/ui/career.ts
+s shoulder mortars, set by the	1	src/game/render/fx.ts
+s shownMap() and activeMutators() at the tap, and the side the host plays. */	1	src/versus/lobby.ts
+s shownMap() and activeMutators() at the tap: what a host offers. */	1	src/versus/lobby.ts
+s shrinks as they go)	1	src/sim/combat.ts
+s side (a duel	1	src/game/chronicle.ts
+s side (the report	1	src/ui/report.ts
+s side (two variants): keep their rotation small. */	1	src/game/three/textures.ts
+s side colour (blue is blue on both phones of a sound duel). */	1	src/game/GameScene.ts
+s side draws on top	1	src/ui/report.ts
+s side of the modem running in an	1	src/link/worklet-transport.ts
+s side of them is theirs to defend, not ours to mine	1	src/sim/ai/commander.ts
+s side rails cover the battlefield (CSS px), measured a few times a second while a reason shows. */	1	src/game/placement-view.ts
+s side touches down: (x, y)	1	src/sim/lift.ts
+s side was knocked out and the match goes on (watching now). */	1	src/game/GameScene.ts
+s side) and returns [grey, alpha].	1	src/game/three/textures.ts
+s side). */	1	src/game/controller.ts
+s side):	1	src/versus/codec.ts
+s side, and sends the log on to every friend.	1	src/ffa/host.ts
+s side, when it is still on	1	src/sim/combat.ts
+s side, when it was on the map to say (absent in a duel: the other side). */	1	src/sim/types.ts
+s side, when known (a free-for-all	1	src/sim/awards.ts
+s side. Both phones check both picks, so	1	src/versus/pairing.ts
+s side. Both phones then check both	1	src/versus/pairing.ts
+s side. False if it isn	1	src/versus/pairing.ts
+s side: never on the wire). */	1	src/versus/codec.ts
+s sides	1	src/game/terrain-paint.ts
+s sides and knock-outs (Chronicle.sides, .out): its own story (momentsMulti). */	1	src/game/chronicle.ts
+s sides. */	1	src/sim/sides.ts
+s sight)	1	src/game/render/entities.ts
+s sight? Read from the fog texture the terrain keeps (a texel per tile, plus a border). */	1	src/game/render/fx.ts
+s signal at the guest dropping to 5.5–8.5 dB 30 s	1	src/versus/session.ts
+s signal: a hidden page may get no frames and no	1	src/versus/session.ts
+s sim events (called after GameScene.handleFx). */	1	src/game/render/juice-view.ts
+s sim events at sim time `t`. */	1	src/game/announcer.ts
+s sim events at sim time t. */	1	src/ui/command.ts
+s sim events: a hit on a member lights its chip. */	1	src/game/squads.ts
+s sim events: units rolling off the line (or out of a Drop Pod	1	src/game/voices.ts
+s sim, off the main thread, and answers with the	1	src/game/replay-check.worker.ts
+s site as the plan sees it (tests and tools). */	1	src/sim/ai/goliath.ts
+s six legs (its ModelDef.parts, each pivoting at its hip),	1	src/game/three/models.ts
+s size),	1	src/sim/mapgen.ts
+s skeleton), Armament	1	src/game/three/goliath.ts
+s skip or a Nomads start, is simply dug in)	1	src/game/render/goliath.ts
+s slack (the turns of this phone	1	src/versus/lockstep.ts
+s slack affords	1	src/versus/lockstep.ts
+s slack as its newest packet said it (live until	1	src/versus/lockstep.ts
+s slack as its newest packet said it (slot(): the frames last handed	1	src/versus/lockstep.ts
+s slack from its newest frame (ack + tickLag); null before one arrives. */	1	src/versus/lockstep.ts
+s slack from its newest frames (the slack gate), and when they arrived (the packet period until setPacketMs). */	1	src/versus/lockstep.ts
+s slack only grows until this phone stalls: it says nothing of what the peer keeps once it plays on)	1	src/versus/lockstep.ts
+s slack runs high while it is behind this phone (at the	1	src/versus/lockstep.ts
+s slack runs high while it is behind this phone, which it is at the	1	src/versus/lockstep.ts
+s slack trim around 1×). */	1	src/game/GameScene.ts
+s slack trim aside)	1	src/game/GameScene.ts
+s slack trim), at most AWARE.maxTicksPerFrame ticks per frame	1	src/game/GameScene.ts
+s slope: the pelvis	1	src/game/three/goliath.ts
+s slot (--banner-top), centred on	1	src/versus/hud.ts
+s slot and above the chip row	1	src/ui/layout.ts
+s slot is always reserved, so the ticker doesn	1	src/ui/layout.ts
+s slot under the top bar, reserved whether or not a fight is on	1	src/ui/layout.ts
+s slots()):  ls.slot(at)	1	src/versus/lockstep.ts
+s slots(), this lockstep	1	src/versus/lockstep.ts
+s slow growl) into the time budget	1	src/game/voices.ts
+s slow motion, so a cinematic	1	src/game/three/tween.ts
+s slow projectiles (shells arc, bombs fall). */	1	src/game/render/fx.ts
+s socket ended for good (the relay	1	src/ffa/host.ts
+s socket may send a second, and in one burst: the relay	1	src/ffa/host.ts
+s socket may send now (SEND_RATE a second, up to SEND_BURST). */	1	src/ffa/host.ts
+s socket may still send now (SEND_RATE), and when that was counted. */	1	src/ffa/host.ts
+s software fallback): start at the cheapest look. */	1	src/game/three/stage.ts
+s sound	1	src/game/audio.ts
+s soundtrack, wired to the shared audio engine and settings. */	1	src/game/music.ts
+s source point, refilled per puff (Fx reads it at once). */	1	src/game/render/entities.ts
+s south)	1	src/sim/ai/goliath.ts
+s space (another part, or the hull), its geometry built about	1	src/game/three/models.ts
+s space and rides one bone, so the skeleton is just a	1	src/game/three/infantry.ts
+s space and the joints are a plain	1	src/game/three/goliath.ts
+s space) and are gone. */	1	src/game/three/infantry.ts
+s space) to their slots, a beat apart:	1	src/game/three/infantry.ts
+s space: `robots` and `joints` pick what to include (the	1	src/game/three/infantry.ts
+s spare squads, flown on to where they	1	src/sim/ai/airlift.ts
+s spatter: white-hot, cooling to amber, falling. */	1	src/game/render/fx.ts
+s speed (so it stays put on the ground), then lifts and swings forward to land again;	1	src/game/three/infantry.ts
+s speed multiplier for a (non-air) movement class. */	1	src/sim/world.ts
+s speed), `unload` sets it	1	src/sim/lift.ts
+s speed: this is how they keep up with a wave.	1	src/sim/ai/condor.ts
+s split rule and a capacity	1	src/versus/lockstep.ts
+s spot: build it here, or why not (src/game/placement-view.ts)	1	src/ui/hud.ts
+s spread across any line has variance 1/12 — and reaches along the	1	src/game/three/terrain-bridges.ts
+s squads hold those, ai/airlift.ts)	1	src/sim/ai/objectives.ts
+s squads reach: the airlift	1	src/sim/ai/objectives.ts
+s squads stand in it	1	src/sim/objectives.ts
+s stair-steps), then sharpened so borders stay crisp (membership⁸, normalised)	1	src/game/terrain-paint.ts
+s stall by more than 0.2 s, so the threshold stays low.	1	src/versus/session.ts
+s stall under loss: the rotation the first stall ends has cost it	1	src/versus/lockstep.ts
+s star row. The sim owns the rules (src/sim/ops.ts).	1	src/ui/ops.ts
+s start (createMapWorld): an HQ in each corner, blue	1	src/sim/maps.ts
+s start can	1	src/game/guard-fir.ts
+s start is a slot;	1	src/link/packet-air.ts
+s start is cleared	1	src/sim/lift.ts
+s start on the sender	1	src/link/transport.ts
+s start turn). */	1	src/link/transport.ts
+s start turn; the	1	src/versus/lockstep.ts
+s start − 1, the newest to newestSealed.	1	src/versus/lockstep.ts
+s start(). The lazily loaded duel chunk	1	src/versus/lobby.ts
+s start), NaN: never. */	1	src/versus/pairing.ts
+s start; 127: too old, or none)	1	src/versus/pairing.ts
+s starting Condor and	1	src/sim/types.ts
+s starting HQ, so home	1	src/sim/rules.ts
+s starting Trooper Squad at `near` (world coords) on the	1	src/sim/openers.ts
+s starting Trooper Squad blunts the opening raids (at 4 it	1	src/sim/ai/commander.ts
+s starting mode (null before GO). */	1	src/versus/session.ts
+s starting units guard home while both sides settle in. */	1	src/sim/ai/commander.ts
+s state ("ok": none). */	1	src/versus/feed.ts
+s state after the match begins is the one it had then;	1	src/versus/session.ts
+s state can	1	src/link/worklet.ts
+s state for the selection panel: walking, anchoring (with progress), anchored, packing up, or on a lift. */	1	src/ui/hud.ts
+s state replayed	1	src/link/rig.ts
+s state when the match began. */	1	src/versus/session.ts
+s state: firing, held (grounded to its machine guns on a lift), rebooting or offline. */	1	src/ui/hud.ts
+s state: shows while ≥ 2 armed units per side are in view	1	src/game/awareness.ts
+s stats() the SNR of the newest packet it	1	src/link/packet-air.ts
+s stats: a column per side, yours first (a spectator	1	src/ui/report.ts
+s statue, unitDef	1	src/game/three/goliath.ts
+s step (LobbyStep) until the feed is	1	src/versus/lobby.ts
+s step. */	1	src/versus/feed.ts
+s steps ran with their events unseen)	1	src/game/GameScene.ts
+s still on it: alive, and at the crate or still heading there	1	src/sim/ai/objectives.ts
+s still time.	1	src/sim/ai/powers.ts
+s stone, warmed by the ground they sit in	1	src/game/three/terrain.ts
+s stopband (16 kHz, a	1	src/game/audio.ts
+s stops: the plate rack and over the cradle (slew from the mast, trolley out along the jib, hook drop). */	1	src/game/render/goliath.ts
+s storage (SOUND-DUEL.md "Rematch"): sessionStorage REMATCH_KEY	1	src/versus/lobby.ts
+s stored side) says red;	1	src/versus/loop-peer.ts
+s story beats (moments, four sides): first blood, the	1	src/game/chronicle.ts
+s story from the chronicle — an army-strength timeline with the key	1	src/ui/report.ts
+s straight deck: where, in its frame (along, across from its centre)	1	src/game/terrain-paint.ts
+s strategy name. */	1	src/ui/report.ts
+s streak names it under the title (one line on a phone) and says it: "Sky Hammer: triple kill"	1	src/game/callouts.ts
+s strength (animated by the entity renderer, 0.04–0.16). */	1	src/game/three/materials.ts
+s strength in view. */	1	src/game/awareness.ts
+s stride (models.ts CRAWLER_LEGS): ground covered per full step cycle (tiles), swing about the hip (rad), foot lift (model units). */	1	src/game/render/entities.ts
+s stripped for scrap instead). */	1	src/sim/objectives.ts
+s strong against. */	1	src/unit-info.ts
+s stun its own event	1	src/sim/powers.ts
+s summary numbers (an 8-tile	1	src/sim/ai/intel.ts
+s sweep: a radian every 0.9 s)	1	src/models.ts
+s switch to the limiter, when	1	src/game/audio.ts
+s switch. The old microphone goes first: Chrome on Android	1	src/link/rig.ts
+s symmetry makes of each feature: 4 on a four-player map, else 2. */	1	src/sim/sides.ts
+s sync can bring a value back	1	src/versus/pairing.ts
+s sync makes one prediction in ten 50 ms early). */	1	src/versus/pairing.ts

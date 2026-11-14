@@ -1,0 +1,261 @@
+s sync symbol (50 ms) leaves every 10–20	1	src/versus/pairing.ts
+s t0 (options.t0), so now() runs on across it.	1	src/link/worklet-transport.ts
+s tab, and the Goliath on Vehicles (the Gantry isn	1	src/ui/command.ts
+s tail hangs to the knees behind	1	src/game/three/infantry.ts
+s tail of its own sound	1	src/link/sim/room.ts
+s tally, or in a free-for-all every rival	1	src/game/chronicle.ts
+s tap (and "Tap to start sound"): call inside the	1	src/link/rig.ts
+s tap (inside the gesture: rig.reconnect()). */	1	src/versus/hud.ts
+s tap, as a button in the report (its words are the cover	1	src/versus/hud.ts
+s tap, or the report	1	src/versus/feed.ts
+s taps for `plan` at sample rate `sr` (odd length, linear phase,	1	src/game/guard-fir.ts
+s target is under fire, or (attack-move) anything is.	1	src/sim/combat.ts
+s target), or null. */	1	src/sim/ai/goliath.ts
+s target. Returns true when it should hold its ground: an	1	src/sim/combat.ts
+s terrain changes.	1	src/sim/world.ts
+s terrain revision (vite.config.ts); not defined outside a Vite build (the tests). */	1	src/game/map-art.ts
+s tests hear	1	src/game/guard-fir.ts
+s text colour on the HUD	1	src/game/side-style.ts
+s the Gist	1	src/game/replay.ts
+s the Goliath too)	1	src/sim/ai/goliath.ts
+s the end of the line, not a failure	1	src/game/announcer.ts
+s the host holds. */	1	src/ffa/protocol.ts
+s the truer reason.	1	src/versus/lockstep.ts
+s their eyes and the hearts you want to see)	1	src/game/GameScene.ts
+s theme (bosses have their own). */	1	src/sim/modes/survival.ts
+s theme, from the first touch	1	src/main.ts
+s then red	1	src/versus/feed.ts
+s there or on its way. */	1	src/sim/ai/menders.ts
+s thin — round its rim and along the cracks splitting it	1	src/game/three/terrain-glsl.ts
+s this phone	1	src/versus/pairing.ts
+s threat value raiding our base (within DEFENSE_RADIUS of it), for pickFocus. */	1	src/sim/ai/commander.ts
+s three (default the duel	1	src/sim/awards.ts
+s three; default the duel	1	src/game/chronicle.ts
+s threshold: an own signal clipping the microphone reads 11–24 dB at	1	src/versus/lobby.ts
+s thumbnail through at their seams.	1	src/ui/hud.ts
+s thump barely counts: Barrages and Sky Hammers are the ones to dodge)	1	src/game/chronicle.ts
+s tick (ms). */	1	src/versus/loop-peer.ts
+s tick A − D or later, and	1	src/versus/lockstep.ts
+s tick). */	1	src/versus/records.ts
+s tick: each side	1	src/game/GameScene.ts
+s tie-breaks: the Daily Op	1	src/game/meta.ts
+s tile; `q`: in the frame that many quarter	1	src/sim/objectives.ts
+s tileable rock material (sRGB). */	1	src/game/three/terrain-glsl.ts
+s tileable rock material for the cliff walls and crags (null = failed: they go untextured). */	1	src/game/three/terrain.ts
+s tiles decked a step lower round it as side bays — so every	1	src/game/three/terrain-bridges.ts
+s tiles: a timber (or steel) bed a step under the main deck	1	src/game/three/terrain-bridges.ts
+s time limit (a draw). The	1	src/arena/record.ts
+s timer (default the window	1	src/versus/relay-transport.ts
+s tint, an anchored Goliath	1	src/game/placement-view.ts
+s to build first.	1	src/sim/ai/goliath.ts
+s toggle: `id` off if it is on, else on — switching off any	1	src/sim/rules.ts
+s token, and the duel it rematches.	1	src/versus/records.ts
+s token; main.ts may import the	1	src/main.ts
+s too close to call. */	1	src/game/chronicle.ts
+s too hot to touch. */	1	src/game/render/wrecks.ts
+s tooCramped.) */	1	src/sim/ai/goliath.ts
+s top band, measured: the pause/mute buttons, the top bar (scrap,	1	src/ui/layout.ts
+s top right, as the maps are mirrored)	1	src/ui/objectives.ts
+s top right, purple	1	src/sim/maps.ts
+s top-left in CSS px;	1	src/game/render/juice-view.ts
+s top-left tile. */	1	src/game/render/entities.ts
+s torso is aimed by the caller.	1	src/sim/combat.ts
+s torso)	1	src/sim/combat.ts
+s touch flow (and anything else	1	src/sim/placement.ts
+s trail (arena/record.ts HASH_EVERY, not imported: the arena loads on demand). */	1	src/ffa/match.ts
+s trail waits at its last-seen health: seen again, the loss drains in view)	1	src/game/render/juice-view.ts
+s training queue. */	1	src/sim/economy.ts
+s transmit mode during the match (see the header). */	1	src/versus/session.ts
+s transmit mode during the match, and says when it is safe to	1	src/versus/session.ts
+s transport on it, not on "detect"	1	src/link/worklet-transport.ts
+s trees are at[start[i] … start[i + 1])). */	1	src/game/three/canopy.ts
+s troop bay, in model space: deck and bench-top heights, the	1	src/game/three/models.ts
+s trouble is a lost packet here, as the air	1	src/versus/relay-transport.ts
+s true time (ms). */	1	src/link/room-transport.ts
+s tuned answers (GOLIATH.md); its Menders keep it alive and its weapons coming back	1	src/game/chronicle.ts
+s turn for a scripted seat. */	1	src/arena/scripted.ts
+s turn is over (or the seat is an AI, or waiting). */	1	src/arena/match.ts
+s turn open (it should play this round)? */	1	src/arena/match.ts
+s turn t. The phone that is ahead stalls, so the two	1	src/versus/lockstep.ts
+s turn tick + D once. */	1	src/versus/feed.ts
+s turn, unless it	1	src/arena/match.ts
+s turn. Notes left out keep the last round	1	src/arena/match.ts
+s turn: hold the pose, and no burst of catch-up ticks after)	1	src/game/GameScene.ts
+s turns	1	src/versus/lockstep.ts
+s turns and hash trail, and this page	1	src/ffa/match.ts
+s turns get 100 ms (the low plan	1	src/versus/pairing.ts
+s turns never leave can	1	src/versus/lockstep.ts
+s turns the peer holds. */	1	src/versus/lockstep.ts
+s turns through A − D − 1 at least; and	1	src/versus/lockstep.ts
+s turns), and the hash trail every HASH_EVERY ticks. */	1	src/ffa/match.ts
+s turns, by where each phone	1	src/versus/lockstep.ts
+s tweens and	1	src/game/three/tween.ts
+s twice an HQ	1	src/game/render/powers.ts
+s two	1	src/game/music.ts
+s two crates land together: the one on our own side first, for both sides alike)	1	src/sim/ai/objectives.ts
+s two ends get posts	1	src/game/three/terrain-bridges.ts
+s two seats of a room. */	1	src/net/relay-socket.ts
+s two sides)	1	src/versus/feed.ts
+s two tabs: units and buildings, each its nav, groups and rows of card and viewer. */	1	src/models.ts
+s two until it is decided). */	1	src/sim/combat.ts
+s two-bone leg IK, cadence from ground speed, body tilted to the	1	src/game/three/goliath.ts
+s tycoon out-mines every rival: the best of them)	1	src/sim/awards.ts
+s type: a game frame must pass the session	1	src/versus/relay-transport.ts
+s types only,	1	src/versus/records.ts
+s types only, so these literals are tied to them by type (and tests/versus-rematch.test.ts reads them).	1	src/main.ts
+s undefined, and an uncancelable	1	src/main.ts
+s under a key it can	1	src/versus/session.ts
+s under a screen point: the nearest drawn unit (aircraft where they	1	src/game/GameScene.ts
+s unexplored tiles as solid rects (x, y, w, h, … in px of an S-px	1	src/ui/hud.ts
+s uniforms: laid on as detail around its own average (read back once), and the	1	src/game/three/terrain.ts
+s unit (ms): a round trip read this far below zero is rounding, not garbage. */	1	src/versus/pairing.ts
+s unit cap (for cheap themes that hit the cap long before the budget).	1	src/sim/modes/survival.ts
+s unit cues (a fresh unit, a promotion)?	1	src/game/voices.ts
+s unit id (it trains infantry, goliath.ts). */	1	src/sim/types.ts
+s unit ids when warned. */	1	src/game/awareness.ts
+s unit kind, when the killer is a living unit. */	1	src/sim/types.ts
+s unit). */	1	src/game/daily.ts
+s units (alive or fallen). */	1	src/sim/awards.ts
+s units and turrets) heat up 6×6-tile cells that cool	1	src/game/awareness.ts
+s units as the Controller reads them (Controller.ahead()): the	1	src/game/controller.ts
+s units as this Controller reads them (OrdersAhead): with an	1	src/game/controller.ts
+s units or buildings is within	1	src/sim/infantry.ts
+s units or buildings? */	1	src/game/awareness.ts
+s units settle in first. */	1	src/sim/ai/objectives.ts
+s units under it)	1	src/game/chronicle.ts
+s units under the reticle when it was called (what there was to dodge). */	1	src/game/chronicle.ts
+s units under the reticle when it was called. */	1	src/sim/awards.ts
+s units would roll out toward the enemy and	1	src/sim/economy.ts
+s units, as `pov`	1	src/ui/hud.ts
+s units. */	1	src/sim/modes/survival.ts
+s upper layers would see. It is the real modem	1	src/link/room-transport.ts
+s upper right — and turns its	1	src/arena/frame.ts
+s upper-left	1	src/game/three/stage.ts
+s use of calldowns (powers.ts), and its reflex for getting	1	src/sim/ai/powers.ts
+s value it keeps in robot infantry once it has an	1	src/sim/ai/commander.ts
+s version (BattleRecord.version), is also played	1	src/game/replay.ts
+s version: bumped with any change to the frame or the rules, so the lobby can say which phone is older. */	1	src/versus/pairing.ts
+s vertex in the mesh that last used it (a point on a mesh boundary is simply repeated)	1	src/game/three/terrain.ts
+s veterancy rank and kill count at death (0 for buildings). */	1	src/sim/types.ts
+s victory, defeat or draw (Robot Love), and the announced big moments. */	1	src/game/score.ts
+s view of it, a copy delayed	1	src/versus/lockstep.ts
+s view tally, `lastShotT` the sim time	1	src/game/awareness.ts
+s view): the closest spot in build range, with a	1	src/sim/placement.ts
+s viewBox is the map): HQs, Uplinks with their capture rings, drop sites. */	1	src/ui/map-preview.ts
+s viewer: its canvas, camera and controls, its model on a pad, and the animation playing. */	1	src/models.ts
+s visibility and building memory. */	1	src/sim/fog.ts
+s visible descent (ticks) and where it falls from. */	1	src/game/render/powers.ts
+s vital statistics, read off its terrain grid (null for a hand-made map). */	1	src/ui/map-preview.ts
+s voice for the moments that matter	1	src/game/announcer.ts
+s voice-chat mode) before the context was made, so the context	1	src/link/rig.ts
+s volley leaves every standing robot	1	src/game/render/fx.ts
+s volley: each standing robot fires from its own muzzle a	1	src/game/render/fx.ts
+s vulnerable); ours	1	src/game/callouts.ts
+s wait and every stall on the way	1	src/versus/lockstep.ts
+s wait) after its tap, so a select-all right after it	1	src/versus/feed.ts
+s waiting list: most important first, at least RADIO.gapS	1	src/game/callouts.ts
+s wake, a small splash). */	1	src/game/render/fx.ts
+s walk. */	1	src/sim/ai/goliath.ts
+s walk: where its legs are in the stride, and how far they swing (0 standing, 1 walking). */	1	src/game/render/entities.ts
+s walking surface (vehicles ride at 0.02); the side bays sit a step lower. */	1	src/game/three/terrain-bridges.ts
+s wanted, so it costs the menu nothing:	1	src/game/replay.ts
+s warning	1	src/game/score.ts
+s warning gone out? */	1	src/sim/modes/survival.ts
+s warning line carries the note itself (one line per event)	1	src/game/awareness-view.ts
+s warning until a little after it arrives, the bass pulse stays in. */	1	src/game/score.ts
+s water (and the canyon	1	src/sim/mapgen.ts
+s wave budgets); exact for integer y. */	1	src/sim/fmath.ts
+s wave pill, an	1	src/ui/layout.ts
+s wave units (the survival state	1	src/sim/salvage.ts
+s waves (no economy to feed): the wrecks stay for the defender	1	src/sim/salvage.ts
+s waves are the director	1	src/sim/ai/commander.ts
+s waves: they never had one)	1	src/sim/combat.ts
+s way (squad space). */	1	src/game/three/infantry.ts
+s way gives ground: straight away from it,	1	src/sim/movement.ts
+s way: origin/webrtc-duel	1	src/versus/lobby.ts
+s waypoint ring (CSS px). */	1	src/game/GameScene.ts
+s ways out besides Resign. */	1	src/versus/feed.ts
+s ways out besides Resign: "Resign and leave" while the friend	1	src/ui/hud.ts
+s ways out, in place of "Quit to menu": Resign, "Resign and leave"	1	src/ui/hud.ts
+s weak)… */	1	src/sim/ai/goliath.ts
+s weapon hits a target of this armour and domain	1	src/sim/ai/intel.ts
+s weapon systems (goliath.ts). The machine guns never go offline. */	1	src/sim/types.ts
+s weapon systems as last announced, so a reboot knocked back down isn	1	src/game/callouts.ts
+s weapon systems in the order damage takes them, with short labels for the selection panel. */	1	src/ui/hud.ts
+s weapon systems, each on its own clock (goliath.ts): every one	1	src/sim/combat.ts
+s weapon systems: what it fires, how hard and how far, and when damage takes it offline. */	1	src/unit-info.ts
+s weapons go offline, notched on its health bar (mortars, laser, cannons). */	1	src/game/GameScene.ts
+s what to react to), then where and when, then what beats	1	src/game/survival.ts
+s when a four-player map adds them (records, recaps, reports). The	1	src/sim/types.ts
+s when it was known). */	1	src/game/chronicle.ts
+s when none of its is known.	1	src/sim/ai/commander.ts
+s when the context	1	src/versus/lobby.ts
+s whenever	1	src/versus/session.ts
+s whenever it is held, so pushing it to empty takes it off them.	1	src/sim/objectives.ts
+s where	1	src/game/callouts.ts
+s while it	1	src/ffa/feed.ts
+s while it hooks on, and those any lift on its way names	1	src/versus/feed.ts
+s whole army? No Fab Plant and no combat	1	src/sim/rules.ts
+s window over: the peer	1	src/versus/lockstep.ts
+s window up to 6 frames to clear of them,	1	src/versus/pairing.ts
+s window.__duel.trails): read from outside after each frame,	1	src/versus/feed.ts
+s winner line and the finale banner word	1	src/game/callouts.ts
+s wire format (FFA.md "Protocol"). Engine-free.	1	src/ffa/protocol.ts
+s within 1.5 dB (the same rxq	1	src/versus/pairing.ts
+s word (end = 2), or leave("desync"). */	1	src/versus/lockstep.ts
+s word, so on its next tap)	1	src/main.ts
+s words (buildingBlocker, unitBlocker,	1	src/arena/orders.ts
+s words for a phase: after a failed tap, `why` in place of the generic line when there is one. */	1	src/versus/hud.ts
+s work? Then it	1	src/game/callouts.ts
+s worklet module to a context, once per context: every call	1	src/link/worklet-transport.ts
+s worklet node, the wake lock and iOS	1	src/link/rig.ts
+s world	1	src/game/three/infantry.ts
+s world after tick `tick` isn	1	src/ffa/protocol.ts
+s world drifted from the host	1	src/ffa/guest.ts
+s world hash after tick `h[0]`, or the end of tick n (a number).	1	src/ffa/protocol.ts
+s world hashes from the log, and this page	1	src/ffa/match.ts
+s world is decided at T, its frames describe its turns	1	src/versus/lockstep.ts
+s world is decided, it left or desynced, or the peer left or desynced. */	1	src/versus/lockstep.ts
+s world is decided: "pending" until the peer	1	src/versus/lockstep.ts
+s world, and they are kept as they were: a unit that	1	src/arena/record.ts
+s worth as a threat (ai/goliath.ts threatValue: a Goliath by what it can still fire). */	1	src/sim/ai/commander.ts
+s worth for defence). */	1	src/sim/ai/powers.ts
+s worth of a building it catches: production 1.5, a Gantry with a Goliath on the cradle (all that progress lost) 3. */	1	src/sim/ai/powers.ts
+s worth of slop)? */	1	src/game/placement-view.ts
+s worth or more)? */	1	src/sim/ai/objectives.ts
+s worth or so; more only while nothing reports slots). */	1	src/versus/lockstep.ts
+s worth the trip. */	1	src/sim/ai/menders.ts
+s worth). Easy only	1	src/sim/ai/airlift.ts
+s wrap. */	1	src/versus/pairing.ts
+s wreck appears where it died: the blast erupts out of it, not hidden inside it	1	src/game/render/fx.ts
+s y), y up.	1	src/game/three/camera.ts
+s zero income) can	1	src/sim/salvage.ts
+s zero on that clock. Default: the clock	1	src/link/worklet-transport.ts
+s zero on the clock. */	1	src/link/worklet-transport.ts
+s zero, the same across rebuilds. */	1	src/link/rig.ts
+s zone (on foot, tracks or hover: an island relay	1	src/sim/ai/objectives.ts
+s zone on its own	1	src/sim/ai/airlift.ts
+s zone push its capture bar toward their side	1	src/sim/objectives.ts
+s zone: harvesters nothing; on an	1	src/sim/objectives.ts
+s ±300 per phone), and the session	1	src/versus/pairing.ts
+s ±300 ppm, and would start a good link robust). It freezes on	1	src/versus/pairing.ts
+s β for a stopband `atten` dB down. */	1	src/game/guard-fir.ts
+s — ai/airlift.ts —	1	src/sim/ai/commander.ts
+s −15 dBFS band reaches the other microphone at about −55 dBFS. */	1	src/link/sim/room.ts
+s −30 dB threshold, so	1	src/game/audio.ts
+s ⚔ dot): a unit sits on	1	src/ui/command.ts
+s ⚔ while another tab is open. */	1	src/ui/command.ts
+s ⚡ meter, so throwing one	1	src/sim/types.ts
+s 💡 hint outlives a burst of alerts)	1	src/ui/hud.ts
+s 🔍 View full map, Preview mode): a big,	1	src/ui/map-preview.ts
+s 🔗 link): preselect that map once; the saved pick carries it after	1	src/main.ts
+s) `db` − 20. A real tap	1	src/link/sim/room.ts
+s) and growing	1	src/game/three/infantry.ts
+s) and the best of everyone else	1	src/ui/report.ts
+s) and the nonce draw	1	src/versus/pairing.ts
+s) over its 3 ms is about `db` − 17 dB, within a 1.5 kHz band	1	src/link/sim/room.ts
+s) tick: the player	1	src/game/GameScene.ts
+s), plus what we see	1	src/sim/ai/airlift.ts
+s), so the two can	1	src/game/juice.ts
+s), then turned back	1	src/sim/economy.ts
+s), unset otherwise (an HQ, or Robot	1	src/arena/record.ts
