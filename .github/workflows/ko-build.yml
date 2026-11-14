@@ -1,0 +1,35 @@
+name: ko-build
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Install dependencies
+        run: npm install --no-audit --no-fund
+      - name: Build with the Pages sub-path base
+        run: npx vite build --base=/battledrones-ko/
+      - name: Check for root-absolute references
+        run: |
+          echo "--- root-absolute src/href in built html (want none) ---"
+          grep -rEo '(src|href)="/[^/][^"]*"' dist --include=*.html || echo "none"
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
