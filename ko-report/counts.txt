@@ -1,7 +1,0 @@
-g1-units 179
-g2-hud 329
-g3-menu 992
-g4-multi 516
-g5-sim 574
-g9-rest 180
-total 2770
