@@ -1,0 +1,329 @@
+cta alt	src/ui/career.ts
+Scrap salvaged	src/ui/report.ts
+destroyHq	src/ui/ops.ts
+.aar-moments li	src/ui/report.ts
+Close	src/ui/career.ts
+Flak, Raptors, SAMs	src/ui/hud.ts
+ vs 	src/ui/hud.ts
+Any ground unit	src/ui/hud.ts
+Bounty earned	src/ui/report.ts
+Buildings destroyed	src/ui/report.ts
+Calldowns used	src/ui/report.ts
+Couldn't copy	src/ui/hud.ts
+Crates claimed	src/ui/report.ts
+Escape	src/ui/fullscreen.ts
+Goliaths fielded	src/ui/report.ts
+Last Stand waves	src/ui/ops.ts
+Not enough scrap	src/ui/hud.ts
+OP COMPLETE	src/ui/ops.ts
+OVERRUN	src/ui/survival.ts
+Peak army	src/ui/report.ts
+Resign and leave	src/ui/hud.ts
+Scrap harvested	src/ui/report.ts
+Supply drops taken	src/ui/report.ts
+Turning point!	src/ui/awareness.ts
+Units built	src/ui/report.ts
+Units destroyed	src/ui/report.ts
+Units lost	src/ui/report.ts
+Uplinks captured	src/ui/report.ts
+Voice	src/ui/audio-panel.ts
+Your MVP	src/ui/report.ts
+cancelProduce	src/ui/hud.ts
+cta sheet-close	src/ui/career.ts
+maxLosses	src/ui/ops.ts
+over sound	src/ui/hud.ts
+sheet-close x	src/ui/career.ts
+your friend	src/ui/hud.ts
+ : ctx.won ? 	src/ui/report.ts
+ chip, one id through every state so it updates in	src/ui/hud.ts
+ progress instead	src/ui/ops.ts
+ stories.	src/ui/report.ts
+ story instead of a tip	src/ui/report.ts
+ training queues count with the Assembly Bays	src/ui/hud.ts
+ · already won today	src/ui/career.ts
+ · top rank	src/ui/career.ts
+#hud .topbar	src/ui/objectives.ts
+../game/GameScene	src/ui/replay.ts
+.aar-svg .mk	src/ui/report.ts
+.cr-bar i	src/ui/career.ts
+.cr-gain .n	src/ui/career.ts
+.cr-medals .medal	src/ui/career.ts
+.cr-stars i.new	src/ui/career.ts
+.op-bigstars i.new	src/ui/ops.ts
+.ostars i	src/ui/ops.ts
+.pw-meter b	src/ui/powers.ts
+.qi .qp	src/ui/hud.ts
+2 Wasps + a Raptor	src/ui/powers.ts
+4/5 robots	src/ui/hud.ts
+A clean win. Swap sides and see if you can do it again.	src/ui/report.ts
+AI vs AI	src/ui/hud.ts
+Air + Ground	src/ui/hud.ts
+Air Swarm	src/ui/ops.ts
+Aircraft	src/ui/hud.ts
+Aircraft at long range	src/ui/hud.ts
+Aircraft downed	src/ui/report.ts
+All aircraft	src/ui/hud.ts
+Already constructing a building	src/ui/hud.ts
+Anything that shoots air	src/ui/hud.ts
+Back 30 s	src/ui/replay.ts
+Back to the menu	src/ui/openers.ts
+Balanced	src/ui/ops.ts
+Base	src/ui/hud.ts
+Bases, Mastodons, Goliaths, clumps	src/ui/hud.ts
+Battle records	src/ui/replay-picker.ts
+Blue MVP	src/ui/report.ts
+Boom	src/ui/ops.ts
+Build a Tech Lab to unlock Mastodons, Lancers, Mortars, Hornets and Snipers.	src/ui/hud.ts
+Buildings, clumped armies	src/ui/hud.ts
+Builds Goliaths, the base that walks	src/ui/hud.ts
+Calldowns	src/ui/report.ts
+Cannons	src/ui/hud.ts
+Cheap squads that hold woods and Uplinks	src/ui/hud.ts
+Chirps	src/ui/audio-panel.ts
+Complete the op	src/ui/ops.ts
+Condors hooking on…	src/ui/hud.ts
+Copied	src/ui/hud.ts
+DEFEAT	src/ui/report.ts
+DRAW	src/ui/report.ts
+Daily Op win streak	src/ui/career.ts
+Destroy HQ	src/ui/ops.ts
+Dev and test modes	src/ui/fullscreen.ts
+Drops 2 squads anywhere, over water and rock	src/ui/hud.ts
+Easy	src/ui/survival.ts
+Effects	src/ui/audio-panel.ts
+Enemy	src/ui/report.ts
+Everything. Guard it.	src/ui/hud.ts
+Flak	src/ui/hud.ts
+Flak, Lancers, SAMs	src/ui/hud.ts
+Flak, Mortars, Lancers, Harvesters	src/ui/hud.ts
+Flak, Raptors, Lancers	src/ui/hud.ts
+Forward 30 s	src/ui/replay.ts
+Friend	src/ui/report.ts
+Gantry busy	src/ui/hud.ts
+Ground	src/ui/hud.ts
+HQ unseen	src/ui/ops.ts
+Hard	src/ui/survival.ts
+Harvester	src/ui/hud.ts
+Infantry	src/ui/hud.ts
+Infantry cross woods at full speed and take half damage there. Keep them clear of Mastodons: they get crushed.	src/ui/command.ts
+Ironclad	src/ui/ops.ts
+Kills by defences	src/ui/report.ts
+Laser	src/ui/hud.ts
+Leave	src/ui/hud.ts
+Locked	src/ui/ops.ts
+Long-press any build button to see what it counters. ⚔ Select army grabs everyone.	src/ui/hud.ts
+Mastodons 1/2	src/ui/ops.ts
+Mastodons destroyed	src/ui/report.ts
+Mastodons, Goliaths, Hornets, heavy armour	src/ui/hud.ts
+Medals earned	src/ui/career.ts
+Mortars	src/ui/hud.ts
+Mortars, Hornets	src/ui/hud.ts
+Music	src/ui/audio-panel.ts
+NEW RECORD!	src/ui/survival.ts
+NO RESULT	src/ui/report.ts
+New version ready	src/ui/update.ts
+Next op	src/ui/report.ts
+No medals this time — the Career sheet lists what to aim for.	src/ui/career.ts
+Normal	src/ui/survival.ts
+Nothing to copy	src/ui/hud.ts
+OP FAILED	src/ui/ops.ts
+Objective scrap	src/ui/report.ts
+Orders and notes	src/ui/replay.ts
+Outpost: doesn't extend build range	src/ui/hud.ts
+PROMOTED	src/ui/career.ts
+Production queue full	src/ui/hud.ts
+Quit to menu	src/ui/hud.ts
+READY	src/ui/powers.ts
+Raids by ground or air, infantry	src/ui/hud.ts
+Red MVP	src/ui/report.ts
+Rocket Squads, Lancers, Wasps	src/ui/hud.ts
+Rocket Squads, Wasps, Lancers, Hornets	src/ui/hud.ts
+Rockets	src/ui/hud.ts
+Rush	src/ui/ops.ts
+Salvage	src/ui/report.ts
+Scout early and build counters: long-press any build button to see what beats what.	src/ui/report.ts
+Scroll left	src/ui/hscroll.ts
+Scroll right	src/ui/hscroll.ts
+Seek	src/ui/replay.ts
+Skyforce	src/ui/ops.ts
+Snipers	src/ui/hud.ts
+Snipers, Mortars, Hornets, Turrets	src/ui/hud.ts
+Sound	src/ui/audio-panel.ts
+Sound settings	src/ui/audio-panel.ts
+Splash: Mortars, Hornets	src/ui/hud.ts
+Spotting through the fog	src/ui/hud.ts
+Squads: hold 1, 2 or 3 to save the selected units. Tap it to select them, double-tap to fly there.	src/ui/command.ts
+Stinger swarms, Hornets	src/ui/hud.ts
+Stingers up close, aircraft	src/ui/hud.ts
+Stingers, Flak, Mortars	src/ui/hud.ts
+Stingers, Mastodons, Goliaths, Mortars	src/ui/hud.ts
+Stingers, Wasps, anything armoured	src/ui/hud.ts
+Tap map: Barrage	src/ui/powers.ts
+Tap map: …	src/ui/hud.ts
+Tap the map to set a rally point	src/ui/hud.ts
+Tap to zoom	src/ui/map-preview.ts
+Tech	src/ui/hud.ts
+The rate	src/ui/fullscreen.ts
+The whole battlefield	src/ui/replay.ts
+Their ace	src/ui/report.ts
+Train tanks in Vehicles. Tap a unit, then tap the map to send it.	src/ui/hud.ts
+Troopers	src/ui/hud.ts
+Troopers, Snipers, Mortars	src/ui/hud.ts
+Turrets 2/2	src/ui/ops.ts
+Two empty Condors lift a Goliath: tap your Goliath to hook on, then long-press where to set it down.	src/ui/command.ts
+Under construction…	src/ui/hud.ts
+Updating…	src/ui/update.ts
+VICTORY	src/ui/report.ts
+Vehicles	src/ui/hud.ts
+Walking	src/ui/hud.ts
+Wasps, Hornets, Scouts	src/ui/hud.ts
+Wasps, Mastodons, Hornets	src/ui/hud.ts
+Your harvester mines scrap by itself. Open Base and tap Fab to build a factory.	src/ui/hud.ts
+Your harvesters mine on their own. Train tanks in Vehicles, then tap a unit and tap the map to send it.	src/ui/hud.ts
+Your ⚡ meter can pay for a calldown. Tap a glowing button on the right, then the map.	src/ui/powers.ts
+a static garrison	src/ui/ops.ts
+aar-col l	src/ui/report.ts
+aar-col r	src/ui/report.ts
+aar-sec aar-head	src/ui/report.ts
+addEventListener	src/ui/fullscreen.ts
+always on	src/ui/hud.ts
+anchor bad	src/ui/hud.ts
+anchor go	src/ui/hud.ts
+buildingsKilled	src/ui/report.ts
+buildingsLost	src/ui/report.ts
+call next wave	src/ui/survival.ts
+callWave	src/ui/survival.ts
+cancelBuilding	src/ui/hud.ts
+crystal patch	src/ui/map-preview.ts
+crystal patches	src/ui/map-preview.ts
+cta alt replay-file	src/ui/replay-picker.ts
+cta alt sheet-close	src/ui/replay-picker.ts
+cta alt warn	src/ui/hud.ts
+dtMs	src/ui/hud.ts
+en-US	src/ui/career.ts
+getItem	src/ui/fullscreen.ts
+ground units	src/ui/ops.ts
+held on the lift	src/ui/hud.ts
+k-hq b	src/ui/map-preview.ts
+k-hq r	src/ui/map-preview.ts
+map preview paint failed:	src/ui/map-preview.ts
+no enemy commander	src/ui/ops.ts
+od hot	src/ui/objectives.ts
+od live	src/ui/objectives.ts
+place bad	src/ui/hud.ts
+place go	src/ui/hud.ts
+rb-bar big	src/ui/career.ts
+rb-bar cr-bar	src/ui/career.ts
+re up: captured before the scene	src/ui/openers.ts
+removeEventListener	src/ui/fullscreen.ts
+removeItem	src/ui/fullscreen.ts
+report section failed:	src/ui/report.ts
+s HP, its head queue item	src/ui/hud.ts
+s anchor and the two-Condor lift.	src/ui/command.ts
+s audio category, and a new document resets only the type it reads	src/ui/fullscreen.ts
+s audio session back to "auto"	src/ui/fullscreen.ts
+s audio session back to "auto", on every way out of a page and at	src/ui/fullscreen.ts
+s been scouted, the pause menu has no map reveal, and the end screen reveals it.	src/ui/hud.ts
+s building fill.	src/ui/hud.ts
+s button that copies the match	src/ui/hud.ts
+s buttons.	src/ui/hud.ts
+s calldown buttons: a stack of four round buttons on the	src/ui/powers.ts
+s career slots: `#rankbadge`, `#dailyop`, and every	src/ui/career.ts
+s colour,	src/ui/hud.ts
+s coming next	src/ui/survival.ts
+s core —	src/ui/map-preview.ts
+s core: Shallows further than the biome	src/ui/map-preview.ts
+s corner pill and the minimap all grow or move by mode and	src/ui/layout.ts
+s countdown,	src/ui/objectives.ts
+s don	src/ui/hud.ts
+s finishing order: the winner first, then the sides knocked	src/ui/report.ts
+s foe tint are the two the minimap always used, so blue	src/ui/hud.ts
+s fog: blue	src/ui/replay.ts
+s goal pill, the spectator	src/ui/layout.ts
+s head: the result, where you finished, the map and time, and every side	src/ui/report.ts
+s health, once we have seen it	src/ui/ops.ts
+s hero of the run, fallen or standing	src/ui/survival.ts
+s icon, a count and a health bar, and flashes red while	src/ui/command.ts
+s islands stops Lancers too. Infantry walk through woods and mud at full speed but can	src/ui/hud.ts
+s knocked-out sides, struck through on the spectator	src/ui/hud.ts
+s labels are its players	src/ui/report.ts
+s layout code.	src/ui/report.ts
+s line and its ways out	src/ui/hud.ts
+s newest line steps down beneath it.	src/ui/layout.ts
+s newest line steps down under a showing banner	src/ui/layout.ts
+s not simply everyone	src/ui/hud.ts
+s off, and ringed	src/ui/cinecam.ts
+s op cards and briefing sheet, the in-match goal pill	src/ui/ops.ts
+s or a	src/ui/hud.ts
+s orders and notes for	src/ui/replay.ts
+s own tint	src/ui/hud.ts
+s page sets it to play-and-record, and	src/ui/fullscreen.ts
+s parameters, so a practice rematch is	src/ui/fullscreen.ts
+s persisted settings. Used in the pause	src/ui/audio-panel.ts
+s player sees,	src/ui/hud.ts
+s portrait, in our side	src/ui/command.ts
+s preferred order	src/ui/report.ts
+s price climbs with every one you have: the card shows today	src/ui/hud.ts
+s rank badge, Daily Op card and mutator picker, the	src/ui/career.ts
+s section shows its own tip and the stars still to earn	src/ui/report.ts
+s side draws on top	src/ui/report.ts
+s slot and above the chip row	src/ui/layout.ts
+s slot is always reserved, so the ticker doesn	src/ui/layout.ts
+s slot under the top bar, reserved whether or not a fight is on	src/ui/layout.ts
+s story from the chronicle — an army-strength timeline with the key	src/ui/report.ts
+s thumbnail through at their seams.	src/ui/hud.ts
+s units, as `pov`	src/ui/hud.ts
+s wave pill, an	src/ui/layout.ts
+s ways out besides Resign: "Resign and leave" while the friend	src/ui/hud.ts
+s ways out, in place of "Quit to menu": Resign, "Resign and leave"	src/ui/hud.ts
+s, and a four-player map	src/ui/replay.ts
+s, or any to a spectator: information only.	src/ui/hud.ts
+scrap field	src/ui/map-preview.ts
+scrap fields	src/ui/map-preview.ts
+scrapHarvested	src/ui/report.ts
+scrapSalvaged	src/ui/report.ts
+serviceWorker	src/ui/update.ts
+setItem	src/ui/fullscreen.ts
+sh-note replay-error	src/ui/replay-picker.ts
+sq empty	src/ui/command.ts
+startBuilding	src/ui/hud.ts
+startGoliaths	src/ui/report.ts
+t count	src/ui/hud.ts
+t lost to a rebuild	src/ui/hud.ts
+t lost to a rebuilt button	src/ui/hud.ts
+t lost.	src/ui/hud.ts
+t taken for it.	src/ui/replay.ts
+unitsBuilt	src/ui/report.ts
+unitsKilled	src/ui/report.ts
+unitsLost	src/ui/report.ts
+vs Rush · Hard	src/ui/ops.ts
+vs your friend · Riverlands · 7:42 · over sound	src/ui/report.ts
+vs your friend · 🔊 400 ms	src/ui/hud.ts
+zb cine	src/ui/cinecam.ts
+zb jump	src/ui/awareness.ts
+↻ Rematch	src/ui/report.ts
+↻ Replay	src/ui/ops.ts
+↻ Retry	src/ui/ops.ts
+↻ Try again	src/ui/survival.ts
+⇡ On a lift	src/ui/hud.ts
+⇡ Pack up	src/ui/hud.ts
+⇣ Set down	src/ui/hud.ts
+■ Stop	src/ui/hud.ts
+▶ Play	src/ui/career.ts
+▶ Play this map	src/ui/map-preview.ts
+▶ Your turn	src/ui/survival.ts
+★★ Viper · Lancer · 9 kills	src/ui/hud.ts
+⚓ Anchor	src/ui/hud.ts
+⚓ Anchored	src/ui/hud.ts
+⚔ Army	src/ui/hud.ts
+⚔ Select army	src/ui/hud.ts
+⚡ No calldowns	src/ui/ops.ts
+⛔ No production	src/ui/ops.ts
+❄ No income	src/ui/ops.ts
+➜ Move	src/ui/hud.ts
+➜ Move only	src/ui/hud.ts
+🎖 Ops · 7/24 ★ · 4 of 8 open	src/ui/ops.ts
+🏳 Resign	src/ui/hud.ts
+💘 They fell in love	src/ui/report.ts
+📅 Daily Op #12 · 💥 Glass Cannons · ⚡ Blitz	src/ui/career.ts
+📋 Copy replay JSON	src/ui/hud.ts

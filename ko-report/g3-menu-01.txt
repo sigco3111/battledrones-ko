@@ -1,0 +1,414 @@
+Fire	src/models.ts
+attackMove	src/game/GameScene.ts
+calldownImpact	src/game/awareness.ts
+cta alt	src/main.ts
+cannonL	src/models.ts
+podL	src/models.ts
+cannonR	src/models.ts
+ownUnit	src/game/GameScene.ts
+podR	src/models.ts
+Drop	src/models.ts
+goliathWeapon	src/game/callouts.ts
+ownBuilding	src/game/GameScene.ts
+packUp	src/game/controller.ts
+Bank	src/models.ts
+Damaged	src/models.ts
+Enemy aircraft detected	src/game/announcer.ts
+Goliath	src/game/awareness.ts
+Wreck	src/models.ts
+cancelProduce	src/game/controller.ts
+eyeDark	src/game/three/goliath.ts
+goliathLift	src/game/callouts.ts
+goliathMode	src/game/callouts.ts
+rankUp	src/game/GameScene.ts
+shoulderL	src/game/three/goliath.ts
+shoulderR	src/game/three/goliath.ts
+Blue	src/models.ts
+First blood	src/game/announce.ts
+Squad lost	src/game/callouts.ts
+Walk	src/models.ts
+cancelBuilding	src/game/controller.ts
+eyeLove	src/game/three/goliath.ts
+goliathRollout	src/game/callouts.ts
+placeBuilding	src/game/controller.ts
+pointerType	src/game/GameScene.ts
+startBuilding	src/game/controller.ts
+thighL	src/game/three/goliath.ts
+thighR	src/game/three/goliath.ts
+uplinkFlip	src/game/director.ts
+ none	src/arena/observe.ts
+Build Goliath	src/models.ts
+Capturing	src/models.ts
+Defeat	src/game/finale.ts
+Haul	src/models.ts
+Idle	src/models.ts
+Rubble	src/models.ts
+VETERAN	src/game/hero-fx.ts
+Victory	src/game/finale.ts
+Watching	src/main.ts
+aSteep	src/game/three/terrain-glsl.ts
+aStone	src/game/three/terrain-glsl.ts
+bigExplosion	src/game/audio.ts
+crateClaimed	src/game/render/objectives.ts
+crateIncoming	src/game/render/objectives.ts
+cta big	src/main.ts
+eyeLit	src/game/three/goliath.ts
+ghostOk	src/game/placement-view.ts
+see weapons	src/arena/observe.ts
+setDown	src/game/callouts.ts
+three/examples/jsm/utils/BufferGeometryUtils.js	src/game/three/builder.ts
+unitIds	src/game/controller.ts
+uplinkLost	src/game/audio.ts
+ painted	src/game/three/goliath.ts
+#diff button	src/main.ts
+#gmode button	src/main.ts
+#maps .mapcard	src/main.ts
+#rndbiome button	src/main.ts
+#rndview button	src/main.ts
+Air raid	src/game/awareness.ts
+Anchor	src/models.ts
+Attack	src/game/awareness.ts
+BUILDINGS	src/arena/observe.ts
+Base	src/game/awareness.ts
+Biggest battle	src/game/chronicle.ts
+Construct	src/models.ts
+Copy debug info	src/game/GameScene.ts
+Direct hit!	src/game/callouts.ts
+Drive	src/models.ts
+ELITE	src/game/hero-fx.ts
+EMP-stunned	src/arena/observe.ts
+Enemy HQ destroyed	src/game/callouts.ts
+Enemy drones inbound	src/game/awareness.ts
+Fall	src/models.ts
+Flak	src/game/advisor.ts
+Flak, Raptors or a SAM	src/game/awareness.ts
+Flak, Raptors or a Turret	src/game/awareness.ts
+Game audio guard	src/game/audio.ts
+Goliath lost	src/game/callouts.ts
+Goliath ready	src/game/callouts.ts
+Goliath under attack	src/game/awareness.ts
+Green	src/models.ts
+HARDENED	src/game/hero-fx.ts
+HQ under attack	src/game/awareness.ts
+Harvesters	src/game/awareness.ts
+Held	src/models.ts
+Hover	src/models.ts
+KeyA	src/game/GameScene.ts
+KeyD	src/game/GameScene.ts
+KeyS	src/game/GameScene.ts
+KeyW	src/game/GameScene.ts
+Love	src/models.ts
+March	src/models.ts
+Neutral	src/models.ts
+OUT OF SYNC	src/game/GameScene.ts
+Op failed	src/game/ops.ts
+Our Goliath is under attack	src/game/callouts.ts
+Our HQ has fallen	src/game/callouts.ts
+Our last Goliath has fallen	src/game/finale.ts
+Playing red	src/main.ts
+Purple	src/models.ts
+Radio check	src/game/announcer.ts
+Reboot	src/models.ts
+Rematch	src/main.ts
+Repair	src/models.ts
+Resign	src/game/GameScene.ts
+Stand	src/models.ts
+Supply drop inbound	src/game/announce.ts
+Sweep	src/models.ts
+Too far from base	src/game/placement-view.ts
+Troops deployed	src/game/callouts.ts
+Turning point!	src/game/awareness.ts
+UNITS	src/arena/observe.ts
+Uncharted	src/main.ts
+Units	src/game/awareness.ts
+Units under attack!	src/game/GameScene.ts
+Warning: our HQ is under attack	src/game/announcer.ts
+an EMP	src/game/calldown-credit.ts
+crateExpired	src/game/render/objectives.ts
+crateLanded	src/game/director.ts
+cta alt sheet-close	src/main.ts
+dtMs	src/game/awareness.ts
+enemy inbound	src/game/awareness-view.ts
+ghostBad	src/game/placement-view.ts
+goliathBuild	src/game/callouts.ts
+idle army	src/arena/orders.ts
+powerOnline	src/game/render/powers.ts
+rodBL	src/game/three/goliath.ts
+rodBR	src/game/three/goliath.ts
+rodFL	src/game/three/goliath.ts
+rodFR	src/game/three/goliath.ts
+s finishing	src/game/render/goliath.ts
+s match: main	src/main.ts
+s rock	src/game/three/terrain-glsl.ts
+shinL	src/game/three/goliath.ts
+shinR	src/game/three/goliath.ts
+spikeBL	src/game/three/goliath.ts
+spikeBR	src/game/three/goliath.ts
+spikeFL	src/game/three/goliath.ts
+spikeFR	src/game/three/goliath.ts
+terrain: fog lookup not found	src/game/three/terrain-glsl.ts
+the Sky Hammer	src/game/calldown-credit.ts
+the enemy	src/game/hero-fx.ts
+the waves	src/game/GameScene.ts
+three/examples/jsm/environments/RoomEnvironment.js	src/models.ts
+toField	src/game/controller.ts
+waveIncoming	src/game/score.ts
+▶ Start Last Stand	src/main.ts
+ 48 px: painted on the player	src/game/terrain-paint.ts
+ III	src/game/heroes.ts
+ VII	src/game/heroes.ts
+ VIII	src/game/heroes.ts
+ art, tiles	src/game/terrain-paint.ts
+ at whichever building	src/arena/orders.ts
+ blinking beacons	src/game/three/models.ts
+ bones.	src/game/three/infantry.ts
+ centre.	src/game/awareness-view.ts
+ colour per rock tile, the painted rock	src/game/three/terrain.ts
+ down	src/game/callouts.ts
+ for Last Stand's	src/game/recorder.ts
+ for a commander, 	src/game/recorder.ts
+ heightfield turns steep the draped paint would smear	src/game/three/terrain-glsl.ts
+ hulls. The	src/game/render/entities.ts
+ local colour keeps the painted rock	src/game/three/terrain.ts
+ material: the plain model material, plus an instanced `canopy`	src/game/three/materials.ts
+ materials, kept: a shader program goes when the last material	src/game/three/stage.ts
+ modems use, nor play so loud that the speaker	src/game/audio.ts
+ offsets across the axis — exact for a clean band of tiles at any	src/game/three/terrain-bridges.ts
+ or 	src/arena/observe.ts
+ orders applied at the first	src/arena/match.ts
+ real heroes, not every rank-2 grunt	src/game/hero-fx.ts
+ screen you can't see the	src/game/awareness.ts
+ segments	src/game/render/objectives.ts
+ shades would read as a black stick figure.	src/game/three/infantry.ts
+ stair-stepped	src/game/three/terrain-bridges.ts
+ tails, a missile under each wing	src/game/three/models.ts
+ textured additive program, so the first drop	src/game/render/objectives.ts
+ top, the benches	src/game/three/models.ts
+ waiting in	src/game/callouts.ts
+ with or without a spot, 	src/arena/orders.ts
+"Rajdhani", "Segoe UI", system-ui, -apple-system, sans-serif	src/game/three/screen.ts
+"at" must be [x, y]: the building's top-left tile	src/arena/orders.ts
+- Aircraft fly over everything. Only units and buildings whose "hits" column says air or both can shoot them.	src/arena/observe.ts
+. GameScene feeds it	src/game/hero-fx.ts
+............xxXX	src/game/score.ts
+........X...x.xX	src/game/score.ts
+....X.......XxXX	src/game/score.ts
+./GameScene	src/game/replay.ts
+./game/GameScene	src/main.ts
+1. ok: …	src/arena/orders.ts
+1. refused: …	src/arena/orders.ts
+4 players	src/main.ts
+: a robot is nearly all	src/game/three/infantry.ts
+A clean win. Ready to try a harder AI?	src/game/chronicle.ts
+An unknown battlefield. Scout it to learn its shape.	src/main.ts
+Anvil	src/game/heroes.ts
+ArrowDown	src/game/GameScene.ts
+ArrowLeft	src/game/GameScene.ts
+ArrowRight	src/game/GameScene.ts
+ArrowUp	src/game/GameScene.ts
+Banshee	src/game/heroes.ts
+Barrage	src/game/calldown-credit.ts
+Base overrun	src/game/GameScene.ts
+Base overrun. The HQ has fallen.	src/game/callouts.ts
+Base overrun. The last Goliath has fallen.	src/game/callouts.ts
+Base under attack!	src/game/GameScene.ts
+Bastion	src/game/heroes.ts
+Battle records	src/arena/record.ts
+Before you play	src/main.ts
+Blitz	src/game/heroes.ts
+Boarding: they'll drop there once they're aboard	src/game/controller.ts
+Both commanders can call orbital strikes	src/game/render/powers.ts
+Both resigned	src/game/finale.ts
+Brick	src/game/heroes.ts
+Bruiser	src/game/heroes.ts
+Bulldog	src/game/heroes.ts
+CONSTRUCTION idle: you can start a building	src/arena/observe.ts
+Cadet	src/game/career.ts
+Cannot build there	src/game/callouts.ts
+Captain	src/game/career.ts
+Chirps	src/game/announcer.ts
+Cobalt	src/game/heroes.ts
+Colonel	src/game/career.ts
+Colours	src/game/side-style.ts
+Comet	src/game/heroes.ts
+Condor down! Troops bailing out	src/game/callouts.ts
+Condor full	src/game/controller.ts
+Condor full: unload it first	src/game/GameScene.ts
+Construction complete	src/game/callouts.ts
+Corporal	src/game/career.ts
+Couldn't copy: this browser doesn't allow it	src/game/GameScene.ts
+DRAW	src/arena/match.ts
+Daily Op	src/game/career.ts
+Debug info copied	src/game/GameScene.ts
+Delete	src/game/GameScene.ts
+Diesel	src/game/heroes.ts
+Double	src/game/announcer.ts
+Double kill	src/game/callouts.ts
+Draw	src/game/finale.ts
+Drones inbound	src/game/awareness.ts
+Dropped from its lift	src/game/callouts.ts
+ELITE FLAK DOWN	src/game/callouts.ts
+EMP inbound!	src/game/callouts.ts
+ENEMY	src/arena/events.ts
+ENEMY SEEN	src/arena/observe.ts
+Echo	src/game/heroes.ts
+Elite Goliath	src/game/callouts.ts
+Ember	src/game/heroes.ts
+Enemy	src/arena/events.ts
+Enemy Goliath airborne	src/game/callouts.ts
+Enemy Goliath digging in	src/game/callouts.ts
+Enemy Goliath dropped!	src/game/callouts.ts
+Enemy Goliath in production	src/game/callouts.ts
+Enemy Goliath nearly complete	src/game/callouts.ts
+Enemy Goliath on the field	src/game/callouts.ts
+Enemy Goliath packing up	src/game/callouts.ts
+Enemy Goliath: mortars and	src/game/callouts.ts
+Enemy HQ destroyed. Victory!	src/game/callouts.ts
+Enemy Sky Hammer inbound!	src/game/render/powers.ts
+Enemy drop pod!	src/game/callouts.ts
+Enemy troops landing!	src/game/callouts.ts
+Enter	src/main.ts
+Escape	src/game/GameScene.ts
+FREE LANCER!	src/game/render/objectives.ts
+FRIEND LEFT	src/game/GameScene.ts
+Fight	src/game/awareness.ts
+First clear	src/game/career.ts
+Flak Crawler	src/arena/orders.ts
+Flak and Mastodons, or a Turret	src/game/awareness.ts
+Flint	src/game/heroes.ts
+Fly troops back in by Condor to retake it	src/game/render/objectives.ts
+Four commanders, one survivor. Knock out every rival's HQ and Goliaths.	src/main.ts
+General	src/game/career.ts
+Get clear of the red circle	src/game/render/powers.ts
+Get units back on it before they take it	src/game/render/objectives.ts
+Getting into a duel	src/main.ts
+Ghost	src/game/heroes.ts
+Glinting wrecks hold scrap: roll any ground unit over them.	src/game/render/wrecks.ts
+Go in blind: scout to reveal the map.	src/main.ts
+Goliath airborne	src/game/callouts.ts
+Goliath anchored	src/game/callouts.ts
+Goliath dropped!	src/game/callouts.ts
+Goliath fights on	src/game/callouts.ts
+Goliath lost in the drop	src/game/callouts.ts
+Goliath under attack!	src/game/GameScene.ts
+Goliaths fight on	src/game/callouts.ts
+Good here: an Airpad for more Condors	src/game/GameScene.ts
+Grit	src/game/heroes.ts
+Grizzly	src/game/heroes.ts
+HOST LEFT	src/game/GameScene.ts
+HQ destroyed	src/game/chronicle.ts
+HQ under attack!	src/game/GameScene.ts
+Hammer	src/game/heroes.ts
+Hardened	src/game/heroes.ts
+Harvester lost	src/game/callouts.ts
+Hash trail and the end of the	src/game/GameScene.ts
+Havoc	src/game/heroes.ts
+Hold your base against endless, themed waves. How long can you last?	src/main.ts
+Host phone · Air Wing	src/game/replay.ts
+INPUT	src/game/GameScene.ts
+Incoming artillery!	src/game/callouts.ts
+Insufficient scrap	src/game/callouts.ts
+Ironhide	src/game/heroes.ts
+Island 📡 Uplinks: only troops can take them, and they pay while troops hold them. Tap your Condor, then tap an island.	src/game/render/objectives.ts
+It's a draw	src/game/finale.ts
+Jinx	src/game/heroes.ts
+Juggernaut	src/game/heroes.ts
+Kestrel	src/game/heroes.ts
+Knocked out	src/game/chronicle.ts
+Lancers	src/game/awareness.ts
+Landed	src/models.ts
+Last Stand	src/game/GameScene.ts
+Last enemy Goliath destroyed. Victory!	src/game/callouts.ts
+Last rival knocked out	src/game/finale.ts
+Last rival knocked out. Victory!	src/game/callouts.ts
+Lieutenant	src/game/career.ts
+Lost in the drop	src/game/callouts.ts
+Lynx	src/game/heroes.ts
+MASTODON DOWN	src/game/callouts.ts
+Major	src/game/career.ts
+Mako	src/game/heroes.ts
+Mantis	src/game/heroes.ts
+Marshal	src/game/career.ts
+Mastodons	src/game/awareness.ts
+Mastodons, Wasps or a Turret	src/game/awareness.ts
+MatchFeed and GameScene	src/game/GameScene.ts
+Maverick	src/game/heroes.ts
+Mine scrap. Build your swarm. Destroy the enemy HQ and its Goliaths.	src/main.ts
+Mortars, Turrets or Snipers	src/game/awareness.ts
+Mutators active	src/game/meta.ts
+Mute all	src/main.ts
+Needs two empty Condors	src/game/controller.ts
+New record!	src/game/survival.ts
+No Tech Lab by 6:00. It unlocks Mastodons, Lancers, Mortars, Hornets and Sniper Teams.	src/game/chronicle.ts
+No contest: the players' games drifted apart	src/game/GameScene.ts
+No contest: the two phones' games drifted apart	src/game/GameScene.ts
+No result	src/game/GameScene.ts
+No way across: only troops flown in by Condor can take islands	src/game/controller.ts
+No way across: two empty Condors can lift a Goliath there	src/game/controller.ts
+Nova	src/game/heroes.ts
+One Goliath left	src/game/callouts.ts
+One minute left	src/game/ops.ts
+One minute to hold	src/game/ops.ts
+Only http and https links can be loaded	src/game/replay.ts
+Onyx	src/game/heroes.ts
+Op complete	src/game/ops.ts
+Orbital strike ready. Tap its button, then the map	src/game/render/powers.ts
+Orders	src/arena/orders.ts
+Our HQ has fallen. Mission failed.	src/game/callouts.ts
+Our base is under attack	src/game/callouts.ts
+Our last Goliath fights on	src/game/callouts.ts
+Our last Goliath has fallen. Mission failed.	src/game/callouts.ts
+Our units are under fire	src/game/callouts.ts
+Pack up first	src/game/controller.ts
+Park units on a 📡 Uplink to take it: scrap, vision, ⚡ charge. Scout to find them.	src/game/render/objectives.ts
+Park units on a 📡 Uplink to take it: scrap, vision, ⚡ charge. Tap to look.	src/game/render/objectives.ts
+Patch	src/game/heroes.ts
+Private	src/game/career.ts
+Pulled ahead	src/game/chronicle.ts
+R.r.rr.rR.r.rr.F	src/game/score.ts
+R.rR.rF.R.rrO.Fr	src/game/score.ts
+R.rr.r.rR.r.rO.F	src/game/score.ts
+R.rr.rr.R.rr.FO.	src/game/score.ts
+REPAIRED	src/game/render/objectives.ts
+RULES IN BRIEF	src/arena/observe.ts
+Raid	src/game/awareness.ts
+Rampage	src/game/callouts.ts
+Rampart	src/game/heroes.ts
+Rare supply drop!	src/game/render/objectives.ts
+Rascal	src/game/heroes.ts
+Ratchet	src/game/heroes.ts
+Red HQ	src/game/awareness.ts
+Rematch · tap to start	src/main.ts
+Replacement Condor inbound	src/game/callouts.ts
+Replacement Condor inbound, a squad aboard	src/game/callouts.ts
+Rerolls pick any biome	src/main.ts
+Resign and leave	src/game/GameScene.ts
+Robot Love	src/game/chronicle.ts
+Rocket Squads	src/game/advisor.ts
+Rocket Squads, Lancers or Wasps	src/game/awareness.ts
+Rocket Squads, Wasps, Lancers or Hornets	src/game/awareness.ts
+Rocket Squads, Wasps, Lancers, Hornets	src/game/callouts.ts
+Rook	src/game/heroes.ts
+Rrr.rrr.Rrr.rrOF	src/game/score.ts
+Rush	src/game/GameScene.ts
+Rush and Boom	src/game/GameScene.ts
+Rush, Boom and Skyforce	src/game/GameScene.ts
+SALVAGE HAUL	src/game/render/wrecks.ts
+SAM Sites	src/game/advisor.ts
+SIGNAL LOST	src/game/GameScene.ts
+SINCE YOUR LAST TURN	src/arena/observe.ts
+STRIKE WARNINGS	src/arena/observe.ts
+Sable	src/game/heroes.ts
+Scorch	src/game/heroes.ts
+Scout early and build counters: long-press any build button to see what beats what.	src/game/chronicle.ts
+Scrap, vision and command charge while they hold it	src/game/render/objectives.ts
+Scripted seats	src/arena/scripted.ts
+See the whole map before the match	src/main.ts
+Seed: type or paste a code to grow that map	src/main.ts
+Sergeant	src/game/career.ts
+Short missions with a twist. Three stars each — can you take them all?	src/main.ts
+Since your last turn	src/arena/events.ts
+Sky Hammer	src/game/calldown-credit.ts
+Sky Hammer inbound!	src/game/render/powers.ts
+Sky Hammer online	src/game/render/powers.ts
+Sky Hammer ready	src/game/announce.ts

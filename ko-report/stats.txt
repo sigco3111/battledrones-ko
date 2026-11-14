@@ -1,7 +1,0 @@
-strings: 4714
-fillText: 1
-innerHTML: 76
-textContent: 101
-insertAdjacentHTML: 3
-document.title: 0
-hosts: https://api.github.com https://gist.githubusercontent.com https://raw.githubusercontent.com ws://localhost wss://battledrones-relay.fly.dev
