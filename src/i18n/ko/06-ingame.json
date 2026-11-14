@@ -1,0 +1,145 @@
+{
+ "s": {
+  "Hold to fast-forward (3×)": "길게 눌러 빨리 감기(3×)",
+  "Uplinks": "업링크",
+  "Supply drops": "보급 낙하",
+  "Command meter: fills over time, and from your losses (and kills)": "지휘 게이지: 시간이 지나고, 유닛을 잃거나 잡을 때 빨리 찹니다.",
+  "Barrage": "집중포격",
+  "Drop Pod": "강하 포드",
+  "‹ Menu": "‹ 메뉴",
+  "CHOOSE YOUR OPENER": "오프너 선택",
+  "The clock starts when you choose. The enemy picks too.": "고르는 순간 시계가 돕니다. 적도 함께 고릅니다.",
+  "Strike first. Raid their harvesters before they're ready.": "먼저 때려라. 적 수확기가 준비되기 전에 습격하라.",
+  "Out-mine them now, out-build them later.": "지금 더 캐서 나중에 더 많이 뽑아라.",
+  "Own the skies. Wasps hunt tanks and harvesters.": "하늘을 장악하라. 와스프가 전차와 수확기를 사냥한다.",
+  "INDUSTRY": "산업",
+  "AIR WING": "비행단",
+  "BLITZ!": "전격전!",
+  "3 Stingers ready. Hit their harvesters!": "스팅어 3대 준비 완료. 적 수확기를 노려라!",
+  "PAUSED": "일시정지",
+  "▶ Resume": "▶ 계속",
+  "How to play": "플레이 방법",
+  "Reveal map (debug)": "맵 밝히기(디버그)",
+  "Goal": "목표",
+  "Openers": "오프너",
+  "Commander powers": "지휘관 능력",
+  "Objectives": "목표물",
+  "Career, Daily Op and mutators": "경력, 데일리 작전, 변형 규칙",
+  "Economy": "경제",
+  "Building": "건설",
+  "Ops": "작전",
+  "New version ready": "새 버전 준비됨",
+  "Tap Update to switch to it": "업데이트를 눌러 전환하세요",
+  "Update ↻": "업데이트 ↻",
+  "Mutators": "변형 규칙",
+  "Off": "꺼짐",
+  "On": "켜짐",
+  "Fab": "기갑",
+  "Bay": "조립",
+  "SAM": "대공",
+  "Resume": "계속",
+  "Mission": "임무"
+ },
+ "r": [
+  [
+   "^Fab (\\d+)$",
+   "기갑 $1"
+  ],
+  [
+   "^Bay (\\d+)$",
+   "조립 $1"
+  ],
+  [
+   "^SAM (\\d+)$",
+   "대공 $1"
+  ],
+  [
+   "^Uplinks: you hold (\\d+) of (\\d+)$",
+   "업링크: 내 쪽 $1/$2"
+  ],
+  [
+   "^vs ",
+   "대 "
+  ],
+  [
+   "· Temperate",
+   "· 온대"
+  ],
+  [
+   "· Desert",
+   "· 사막"
+  ],
+  [
+   "· Arctic",
+   "· 극지"
+  ],
+  [
+   "· Volcanic",
+   "· 화산"
+  ],
+  [
+   "· Tropical",
+   "· 열대"
+  ],
+  [
+   "(\\d+) Players",
+   "$1인용"
+  ],
+  [
+   "^CADET ",
+   "훈련병 "
+  ],
+  [
+   "^PRIVATE ",
+   "이병 "
+  ],
+  [
+   "^CORPORAL ",
+   "상병 "
+  ],
+  [
+   "^SERGEANT ",
+   "병장 "
+  ],
+  [
+   "^LIEUTENANT ",
+   "소위 "
+  ],
+  [
+   "^CAPTAIN ",
+   "대위 "
+  ],
+  [
+   "^MAJOR ",
+   "소령 "
+  ],
+  [
+   "^COLONEL ",
+   "중령 "
+  ],
+  [
+   "^GENERAL ",
+   "대장 "
+  ],
+  [
+   "^MARSHAL ",
+   "원수 "
+  ],
+  [
+   "DAILY OP",
+   "데일리 작전"
+  ],
+  [
+   "AI \\(Normal\\)",
+   "AI(보통)"
+  ],
+  [
+   "AI \\(Hard\\)",
+   "AI(어려움)"
+  ],
+  [
+   "AI \\(Easy\\)",
+   "AI(쉬움)"
+  ]
+ ]
+}
