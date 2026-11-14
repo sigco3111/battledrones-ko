@@ -1,0 +1,19 @@
+name: ko-cleanup
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Remove temporary scan artifacts
+        run: |
+          set -euo pipefail
+          rm -rf ko-report tools/ko_scan.py
+          git config user.name battledrones-ko
+          git config user.email ko@example.invalid
+          git add -A
+          git commit -q -m "정리: 임시 문자열 스캔 산출물 삭제"
+          git push
