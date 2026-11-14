@@ -1,0 +1,60 @@
+{
+ "s": {
+  "BATTLE DRONES": "배틀 드론",
+  "💰 Gold Rush": "💰 골드 러시",
+  "💥 Glass Cannons": "💥 유리 대포",
+  "🧪 Mutators Off": "🧪 변형 규칙 꺼짐",
+  "Mine scrap. Build your swarm. Destroy the enemy HQ and its Goliaths.": "고철을 캐고, 무리를 키우고, 적 본부와 골리앗을 부숴라.",
+  "⚔ Skirmish": "⚔ 스커미시",
+  "🛡 Last Stand": "🛡 최후 항전",
+  "🎖 Ops": "🎖 작전",
+  "Proving Grounds": "시험장",
+  "Riverlands": "강의 땅",
+  "Dune Sea": "모래 바다",
+  "Frostbite": "동상",
+  "Ashlands": "잿더미 땅",
+  "Compass Rose": "나침반",
+  "Archipelago": "군도",
+  "Hoarfrost Mere": "서리 호수",
+  "48×48 · Temperate ☆☆☆": "48×48 · 온대 ☆☆☆",
+  "56×56 · Temperate ☆☆☆": "56×56 · 온대 ☆☆☆",
+  "56×56 · Desert ☆☆☆": "56×56 · 사막 ☆☆☆",
+  "64×64 · Volcanic ☆☆☆": "64×64 · 화산 ☆☆☆",
+  "72×72 · 4 Players ☆☆☆": "72×72 · 4인용 ☆☆☆",
+  "108×108 · Tropical ☆☆☆": "108×108 · 열대 ☆☆☆",
+  "A wide river splits the valley. One bridge, two muddy fords.": "넓은 강이 계곡을 가른다. 다리 하나, 진흙 여울 둘.",
+  "🔊 Duel a friend (sound)": "🔊 친구와 소리 대전",
+  "🎬 Watch a replay": "🎬 리플레이 보기",
+  "? How to play": "? 플레이 방법",
+  "Art generated with OpenAI gpt-image-2.5 · sound synthesised live": "아트: OpenAI gpt-image-2.5 · 사운드는 실시간 합성",
+  "CADET": "훈련병",
+  "Private": "이병",
+  "Corporal": "상병",
+  "Sergeant": "병장",
+  "Lieutenant": "소위",
+  "Captain": "대위",
+  "Major": "소령",
+  "Colonel": "중령",
+  "General": "대장",
+  "Marshal": "원수",
+  "Temperate": "온대",
+  "Desert": "사막",
+  "Arctic": "극지",
+  "Volcanic": "화산",
+  "Tropical": "열대"
+ },
+ "r": [
+  [
+   "^(📅 )?DAILY OP",
+   "$1데일리 작전"
+  ],
+  [
+   "^vs ([^·]+) · ",
+   "대 $1 · "
+  ],
+  [
+   "^(\\d+) Players",
+   "$1인용"
+  ]
+ ]
+}
