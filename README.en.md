@@ -94,7 +94,7 @@ npx vite preview --base=/battledrones-ko/
 
 ## License and attribution
 
-- The code follows the original **Apache-2.0** license. The original `LICENSE` text and `NOTICE` attribution are kept, and the modifications are described in `NOTICE`.
+- The code follows the original **Apache-2.0** license. The original `LICENSE` text is kept verbatim, and the changes this fork makes are recorded in `NOTICE` (the original repository has no NOTICE file).
 - What this repository adds (`src/i18n/`, `docs/glossary.md`, `tools/wrapup/`) is distributed under the same terms.
 - This is an **unofficial derivative work**, not affiliated with the original author. On any request from the author or rights holders the repository is **made private and deleted immediately**. Please open an issue (<https://github.com/sigco3111/battledrones-ko/issues>) or use the repository profile.
 
