@@ -1,0 +1,46 @@
+name: ko-wrapup-shots
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  shots:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Install project dependencies
+        run: npm install --no-audit --no-fund
+      - name: Install Playwright Chromium
+        run: |
+          npm install --no-save --no-audit --no-fund playwright@1.56.1
+          npx playwright install --with-deps chromium
+      - name: Build with the Pages sub-path base
+        run: npx vite build --base=/battledrones-ko/
+      - name: Report source facts
+        run: |
+          node -e "const fs=require('fs');let n=0,r=0;for(const f of fs.readdirSync('src/i18n/ko')){const j=JSON.parse(fs.readFileSync('src/i18n/ko/'+f,'utf8'));n+=Object.keys(j.s||{}).length;r+=(j.r||[]).length;}console.log('dictionary entries: '+n+' rules: '+r)"
+          echo '--- controls ---'
+          grep -rhn "KeyW\|KeyA\|KeyS\|KeyD\|KeyQ\|KeyE\|Space" src/ui/*.ts | head -25 || true
+      - name: Capture screenshots
+        run: node tools/wrapup/screenshots.mjs
+      - name: Commit screenshots
+        run: |
+          git config user.name "sigco3111"
+          git config user.email "sigco3111@users.noreply.github.com"
+          git add docs/screenshots
+          if git diff --cached --quiet; then
+            echo "no screenshot changes"
+          else
+            git commit -m "docs: add Playwright screenshots of the Korean build"
+            git push
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: screenshots
+          path: docs/screenshots/*.png
+          if-no-files-found: warn
