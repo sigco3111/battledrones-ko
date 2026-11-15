@@ -102,7 +102,7 @@ npx vite preview --base=/battledrones-ko/
 
 ## 라이선스·원작 표기
 
-- 원작 코드 라이선스 **Apache-2.0**을 따릅니다. 원작 `LICENSE`(Apache License 2.0 전문)와 원작 `NOTICE` 표기를 유지하고, 변경 사항은 `NOTICE`에 적었습니다.
+- 원작 코드 라이선스 **Apache-2.0**을 따릅니다. 원작 `LICENSE`(Apache License 2.0 전문)를 수정 없이 그대로 두었고, 이 저장소가 가한 변경 사항은 `NOTICE`에 적었습니다(원작에는 별도 NOTICE 파일이 없습니다).
 - 이 저장소가 추가한 부분(`src/i18n/`, `docs/glossary.md`, `tools/wrapup/`)도 같은 라이선스 조건으로 배포합니다.
 - 원작자와 무관한 **비공식 2차 창작**입니다. 원작자·권리자의 요청이 있으면 **즉시 비공개 전환 및 삭제**합니다. 이슈(<https://github.com/sigco3111/battledrones-ko/issues>)나 저장소 프로필로 알려 주세요.
 
