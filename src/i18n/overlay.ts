@@ -107,9 +107,81 @@ const observer = new MutationObserver((records) => {
 let bar: HTMLDivElement | null = null;
 let label: HTMLSpanElement | null = null;
 
+
+let creditBtn: HTMLButtonElement | null = null;
+let creditPanel: HTMLDivElement | null = null;
+
+const CREDITS: Record<"ko" | "en", [string, string][]> = {
+  ko: [
+    ["원작", "Battle Drones © simonw — github.com/simonw/battledrones"],
+    ["원작 라이선스", "Apache License 2.0 (원문 LICENSE 유지, NOTICE에 변경 고지)"],
+    ["한국어판", "번역·표시 시점 오버레이·빌드 sigco3111"],
+    ["번역 사전", "약 550항목 (src/i18n/ko/*.json)"],
+    ["사용 라이브러리", "three.js (MIT, r185) · qrcode-generator (MIT) · Vite (MIT) · vite-plugin-pwa (MIT)"],
+    ["아트·사운드", "아트: 원작 파이프라인(OpenAI gpt-image-2.5) · 사운드는 실시간 합성"],
+    ["안내", "원작자와 무관한 비공식 2차 창작입니다. 권리자의 요청이 있으면 즉시 비공개·삭제합니다."]
+  ],
+  en: [
+    ["Original", "Battle Drones © simonw — github.com/simonw/battledrones"],
+    ["Original license", "Apache License 2.0 (verbatim LICENSE kept, changes noted in NOTICE)"],
+    ["Korean edition", "translation, display-time overlay and build by sigco3111"],
+    ["Dictionary", "about 550 entries (src/i18n/ko/*.json)"],
+    ["Libraries", "three.js (MIT, r185) · qrcode-generator (MIT) · Vite (MIT) · vite-plugin-pwa (MIT)"],
+    ["Art and sound", "art: original pipeline (OpenAI gpt-image-2.5) · sound synthesised live"],
+    ["Notice", "Unofficial fan translation, not affiliated with the original author. Removed on request."]
+  ]
+};
+
+function renderCredits() {
+  if (!creditPanel) return;
+  creditPanel.textContent = "";
+  const head = document.createElement("div");
+  head.textContent = lang === "ko" ? "배틀 드론 한국어판 · 크레딧" : "Battle Drones KO · Credits";
+  head.style.cssText = "font-weight:600;font-size:13px;color:#e6edfa;margin-bottom:8px";
+  creditPanel.appendChild(head);
+  for (const row of CREDITS[lang]) {
+    const line = document.createElement("div");
+    line.style.cssText = "margin:4px 0";
+    const key = document.createElement("span");
+    key.textContent = row[0] + ": ";
+    key.style.color = "#93a9cd";
+    const val = document.createElement("span");
+    val.textContent = row[1];
+    line.appendChild(key);
+    line.appendChild(val);
+    creditPanel.appendChild(line);
+  }
+  const links = document.createElement("div");
+  links.style.cssText = "margin-top:10px;display:flex;gap:12px;flex-wrap:wrap";
+  const made: [string, string][] = [
+    ["https://github.com/simonw/battledrones", lang === "ko" ? "원작 저장소" : "Original repo"],
+    ["https://github.com/sigco3111/battledrones-ko", lang === "ko" ? "한국어판 저장소" : "Korean repo"],
+    ["https://github.com/simonw/battledrones/blob/main/LICENSE", lang === "ko" ? "라이선스 전문" : "License"]
+  ];
+  for (const hit of made) {
+    const a = document.createElement("a");
+    a.href = hit[0];
+    a.textContent = hit[1];
+    a.target = "_blank";
+    a.rel = "noopener";
+    a.style.cssText = "color:#8fb7ff;text-decoration:none";
+    links.appendChild(a);
+  }
+  creditPanel.appendChild(links);
+}
+
+function toggleCredits() {
+  if (!creditPanel) return;
+  const open = creditPanel.style.display === "block";
+  creditPanel.style.display = open ? "none" : "block";
+  creditBtn?.setAttribute("aria-expanded", open ? "false" : "true");
+}
+
 function paintBar() {
   if (!label) return;
   label.textContent = lang === "ko" ? "English" : "한국어";
+  if (creditBtn) creditBtn.textContent = lang === "ko" ? "크레딧" : "Credits";
+  renderCredits();
   label.title = lang === "ko" ? "Show the original English text" : "한국어로 보기";
 }
 
@@ -135,8 +207,19 @@ function mountBar() {
   label = document.createElement("span");
   label.style.cssText = "font:inherit;background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.2);border-radius:999px;padding:1px 9px;cursor:pointer";
   label.addEventListener("click", () => setLang(lang === "ko" ? "en" : "ko"));
+  creditBtn = document.createElement("button");
+  creditBtn.type = "button";
+  creditBtn.textContent = "크레딧";
+  creditBtn.setAttribute("aria-expanded", "false");
+  creditBtn.style.cssText = "font:inherit;color:#93a9cd;background:none;border:0;padding:0 2px;cursor:pointer";
+  creditBtn.addEventListener("click", (e) => { e.preventDefault(); toggleCredits(); });
+  creditPanel = document.createElement("div");
+  creditPanel.style.cssText = "position:fixed;right:10px;bottom:calc(46px + env(safe-area-inset-bottom));z-index:2147483647;max-width:min(92vw,430px);max-height:68vh;overflow:auto;background:rgba(8,12,20,.96);border:1px solid rgba(255,255,255,.22);border-radius:12px;padding:12px 14px;color:#c8d2e4;font:12px/1.55 system-ui,-apple-system,'Apple SD Gothic Neo','Malgun Gothic',sans-serif;display:none;box-shadow:0 8px 30px rgba(0,0,0,.5)";
+  renderCredits();
   bar.appendChild(home);
+  bar.appendChild(creditBtn);
   bar.appendChild(label);
+  bar.appendChild(creditPanel);
   document.body.appendChild(bar);
   paintBar();
 }
